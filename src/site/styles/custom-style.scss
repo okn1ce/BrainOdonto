@@ -1,3 +1,16 @@
 body {
-    --h1-color: red;
+    /* Headings */
+    --h1-color: #81B29A;
+    --h2-color: #F4F1DE;
+    --h3-color: #F2CC8F;
+    --h4-color: #3D405B;
+    --h1-size: 4em;
+    --h2-size: 2.7em;
+    --h3-size: 2em;
+    --h4-size: 1em;
+
+    /* Brain name */
+[title~="dent'is't"] {
+color: #f5cac3;
+}
 }
