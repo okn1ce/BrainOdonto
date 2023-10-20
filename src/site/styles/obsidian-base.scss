@@ -129,7 +129,7 @@ body {
     --graph-node-attachment: var(--color-yellow);
     /* Headings */
     --heading-formatting: var(--text-faint);
-    --h1-color: red;
+    --h1-color: inhert;
     --h2-color: inherit;
     --h3-color: inherit;
     --h4-color: inherit;
@@ -147,7 +147,7 @@ body {
     --h4-line-height: 1.4;
     --h5-line-height: var(--line-height-normal);
     --h6-line-height: var(--line-height-normal);
-    --h1-size: 2em;
+    --h1-size: 3em;
     --h2-size: 1.6em;
     --h3-size: 1.37em;
     --h4-size: 1.25em;
