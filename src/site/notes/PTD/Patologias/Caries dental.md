@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ptd/patologias/caries-dental/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/ptd/patologias/caries-dental/"}
 ---
 
 
