@@ -20,7 +20,9 @@ Le site n'est pas forcément très beau visuellement mais ce n'était pas l'obje
 
 La barre latérale liste tous les cours disponible à ce jour. Chaque nouvelle fiche que je fais est automatiquement ajoutée le jour même.
 
+
 Le site est organisé de cette manière : 
+
 Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possède sa propre page (comme sur Wikipédia). Lorsqu'une définition a été vu en cours, elle sera soulignée en bleue et aura sa propre page (il suffit de cliquer dessus)
 
 ---
