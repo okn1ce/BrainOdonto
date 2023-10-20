@@ -1,0 +1,51 @@
+---
+{"dg-publish":true,"permalink":"/ptd/patologias/discoloraciones/discoloraciones-del-esmalte/"}
+---
+
+
+Se clasifican en discoloraciones **preeruptivas** y **posteruptivas**
+### Preeruptivas
+
+#### Fluorosis
+
+Cuando el diente recibe mas de 1ppm de fluor en el agua o por ingestas excesivas
+→ La alteracion se produce en todas las fases de desarrollo del esmalte, alterandose las proteinas formadoras de la matriz del esmalte
+
+Tipos de fluorosis :
+- Pequenos puntos opacos
+- Punteados blancos mas o menos grandes por toda la superficie
+- Mancha marron-morado (casos extremos)
+
+![Pasted image 20231013232430.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232430.png) ![Pasted image 20231013232434.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232434.png)
+![Pasted image 20231013232440.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232440.png)![Pasted image 20231013232443.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232443.png)
+![Pasted image 20231013232448.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232448.png) ![Pasted image 20231013232452.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232452.png)
+![Pasted image 20231013232506.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232506.png)![Pasted image 20231013232510.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232510.png)
+
+
+#### Amelogénesis imperfecta
+
+→ voir [[PTD/Patologias/Amelogenesis Imperfectas/Amelogenesis Imperfecta\|Amelogenesis Imperfecta]]
+
+#### Defectos de desarrollo del esmalte 
+
+- Traumatismos
+- Infecciones en dientes temporales
+- Alteraciones metabolicas, nutricionales
+
+![Pasted image 20231013232843.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232843.png)![Pasted image 20231013232847.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232847.png)![Pasted image 20231013232851.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232851.png)
+
+
+
+### Posteruptivas
+
+#### Caries de esmalte
+
+Dos tipos :
+- Mancha blanca → no hay cavidad, solo discoloracion
+- Mancha marron → superficies ya lesionadas
+
+![Pasted image 20231013233743.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013233743.png)![Pasted image 20231013233746.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013233746.png)
+
+#### Impregnacion por metales
+
+→ Infrecuente
