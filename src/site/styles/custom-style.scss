@@ -9,6 +9,10 @@ body {
     --h3-size: 1em;
     --h4-size: 1em;
 
+    h1 {
+        text-align: center;
+    }
+
     /* Brain name */
 [title~="dent'is't"] {
 color: #f5cac3;
