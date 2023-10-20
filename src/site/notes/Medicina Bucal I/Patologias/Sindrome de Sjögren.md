@@ -5,7 +5,7 @@
 → Sequedad de ojos, boca y otras mucosas
 → Se produce por lesion de las glandulas exocrinas
 
-**Complicaciones** : [[PTD/Patologias/Caries dental\|Caries dental]] aceleradas.
+**Complicaciones** : [[PTD/Patologias/Caries/Caries dental  - Clasificaciones\|Caries dental  - Clasificaciones]] aceleradas.
 
 **Tt°** : Extremar higiene oral, lagrimas artificales, caramelos acidos, cremas lubricantes
 
