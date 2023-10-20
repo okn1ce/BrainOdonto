@@ -133,3 +133,9 @@
 
 ![ICDAS.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/ICDAS.png)
 
+
+![[Clasificacion de los caries.canvas|Clasificacion de los caries]]
+
+
+
+
