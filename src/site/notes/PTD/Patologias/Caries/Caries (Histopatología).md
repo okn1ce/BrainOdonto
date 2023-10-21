@@ -61,8 +61,6 @@
 
 # Caries de la dentina (Complejo D-P)
 
-
-
 ## Aspecto macroscópico
 ---
 > [!abstract] Aspecto 
