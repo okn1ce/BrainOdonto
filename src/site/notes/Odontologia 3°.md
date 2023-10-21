@@ -31,4 +31,10 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 
 # Derniers ajouts : 
 
+## 22/10/2023
+
+Mise à jour de certaines informations sur :
+![Pasted image 20231022000048.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231022000048.png)
+
+## 22/10/2023
 ![Pasted image 20231021223853.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231021223853.png)
