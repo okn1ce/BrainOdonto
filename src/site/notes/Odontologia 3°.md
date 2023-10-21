@@ -29,3 +29,6 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 > Suffit d'utiliser la barre de recherche et d'y écrire le mot (ex: Caries). Vous aurez une liste de cours ayant ce mot.
 ---
 
+# Derniers ajouts : 
+
+![Pasted image 20231021223853.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231021223853.png)
