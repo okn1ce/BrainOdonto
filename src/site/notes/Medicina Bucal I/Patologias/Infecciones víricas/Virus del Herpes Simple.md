@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/medicina-bucal-i/patologias/infecciones-viricas/virus-del-herpes-simple/"}
 ---
 
+
+# Etiologia
+---
+
 > [!info] 
 > El herpes es un virus ADN, patogenos para el ser human oy pueden producir manifestaciones orales
 
