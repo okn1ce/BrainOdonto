@@ -44,6 +44,8 @@ Dos tipos :
 - Mancha blanca → no hay cavidad, solo discoloracion
 - Mancha marron → superficies ya lesionadas
 
+Voir [[PTD/Patologias/Caries/Caries (Histopatología)#Caries del esmalte\|Caries del esmalte (Histopatologia)]]
+
 ![Pasted image 20231013233743.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013233743.png)![Pasted image 20231013233746.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013233746.png)
 
 #### Impregnacion por metales
