@@ -71,6 +71,9 @@
 # Clasificacion segun la severidad
 
 ## Caries incipiente
+{ #80e383}
+
+
 ![Incipient.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Incipient.png)
 ![Pasted image 20231020093913.png|250x250](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020093913.png)
 ## Caries moderada
