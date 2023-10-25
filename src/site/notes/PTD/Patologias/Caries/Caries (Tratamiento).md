@@ -13,7 +13,7 @@
 
 ## A nivel del diente
 → En paises sin un sistema sanitario muy desarrollado : **diagnostico diferencial** + **identificar la caries como causa de los sintomas**
-→ En paisses con sistema sanit. desarrollado : La caries se diagnostica principalmente en las visitas periódicas a los servicios de salud dental, objetivo principal = detección precoz de la enfermedad
+→ En paisses con sistema sanit. desarrollado : La caries se diagnostica principalmente **en las visitas periódicas** a los servicios de salud dental, objetivo principal = detección precoz de la enfermedad
 
 ![Pasted image 20231025033929.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025033929.png)
 
