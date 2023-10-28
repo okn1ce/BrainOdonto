@@ -8,7 +8,7 @@
 → *Aerobias (Estafilococos y Capnocytophaga)*
 
 # Cuadro clinico
-## Farma Aguda
+## Forma Aguda
 → Dolor en la zona de erupcion del diente que irradia a zonas contiguas
 → Odinofagia, disfagia, otalgia y trismo
 → Halitosis
