@@ -31,6 +31,14 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 
 # Derniers ajouts : 
 
+## 28/10/2023
+- Ajout [[Medicina Bucal I/Patologias/Estomatitis Aftosa Recidivante (EAR)\|Estomatitis Aftosa Recidivante (EAR)]]
+- Ajout [[Medicina Bucal I/Patologias/Sindrome de Behçet\|Sindrome de Behçet]]
+- Ajout d'images sur [[Medicina Bucal I/Patologias/Infeccion bacterianas/Sifilis oral\|Sifilis oral]], [[Medicina Bucal I/Patologias/Infeccion bacterianas/Pericoronaritis\|Pericoronaritis]], [[Medicina Bucal I/Patologias/Infeccion bacterianas/Tuberculosis (TBC)\|Tuberculosis (TBC)]], [[Medicina Bucal I/Patologias/Infeccion bacterianas/Gingivitis por placa\|Gingivitis por placa]] y [[Medicina Bucal I/Patologias/Infeccion bacterianas/Gingivits necrotizante aguda\|Gingivits necrotizante aguda]]
+
+## 25/10/2023
+![Pasted image 20231025215743.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025215743.png)
+
 ## 25/10/2023
 ![Pasted image 20231025003036.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025003036.png)
 ![Pasted image 20231025003518.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025003518.png)
