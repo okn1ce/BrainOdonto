@@ -12,14 +12,14 @@
 ## Cuadro clinico
 - Mal estado general
 - Posible febricula
-- Dolor gingival difuso, espontaneo e inteso (dificulta masticacion y nutricion)
+- Dolor gingival difuso, espontaneo e intenso (dificulta masticacion y nutricion)
 - Ulceracion gingival que comienza en papilas interdentaes + extension hasta al resto de la encia
 → - Periodontitis necrotizante
 → - Estomatitis necrotizante
 
 ## Diagnostico
 Clinico ! 
-Descartar VIH, leucemia, agranulocitosis o leucemia
+Descartar VIH, leucemia o agranulocitosis 
 **Hacer DD con** :
 - Primoinfeccion herpética
 - Eritema multiforme
@@ -30,3 +30,5 @@ Descartar VIH, leucemia, agranulocitosis o leucemia
 - Limpieza quirurgica de las lesiones
 - **Analgésicos** : Ibuprofeno 400mg cada 8 horas o Paracetamol 1gr cada 8 horas
 - **Antibioticos** : Metronidazol 250-500mg o Amox/Clav 500-875/125mg
+
+![Pasted image 20231028145958.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028145958.png)![Pasted image 20231028150002.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150002.png)
