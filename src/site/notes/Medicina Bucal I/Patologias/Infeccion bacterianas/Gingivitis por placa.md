@@ -22,3 +22,6 @@ Hacer DD con otros tipos de gingivits
 - Eliminación de la placa bacteriana mediante tecnicas de higiene oral personales y profesionales
 - La identifiación y control de factores predisp. evita o limita la aparicón de nuevos brotes
 
+![Pasted image 20231028145940.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028145940.png)
+![Pasted image 20231028145945.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028145945.png)
+![Pasted image 20231028145952.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028145952.png)
