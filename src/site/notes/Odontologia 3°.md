@@ -31,6 +31,9 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 
 # Derniers ajouts : 
 
+## 31/10/2023
+- Ajout [[Medicina Bucal I/Patologias/Penfigo\|Penfigo]] et [[Medicina Bucal I/Patologias/Penfigoide\|Penfigoide]]
+
 ## 28/10/2023
 - Ajout [[Medicina Bucal I/Patologias/Estomatitis Aftosa Recidivante (EAR)\|Estomatitis Aftosa Recidivante (EAR)]]
 - Ajout [[Medicina Bucal I/Patologias/Sindrome de Behçet\|Sindrome de Behçet]]
