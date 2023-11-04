@@ -43,13 +43,14 @@ Cuando aumenta el paso de bilirrubina a biliverdina, que se deposita en diferent
 
 #### Necrosis pulpar
 
+→ [[PTD/Patologias/Patologia Pulpar/Necrosis pulpar\|Necrosis pulpar]]
 Resultado final de una enfermedad inflamatoria. Da lugar a dientes de color gris oscuro.
 ![Pasted image 20231014151835.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014151835.png)
 ![Pasted image 20231014151841.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014151841.png)
 
 #### Hemorragia pulpar
 
-La sangre de origen pulpar penetra en los tubulos dentinarios y se produce hemolisis de los globulos rojos. Da una coloracion rojiza-parda y se terminara en una necrosis pulpar
+La sangre de origen pulpar penetra en los tubulos dentinarios y se produce hemolisis de los globulos rojos. Da una coloracion rojiza-parda y se terminara en una [[PTD/Patologias/Patologia Pulpar/Necrosis pulpar\|necrosis pulpar]]
 ![Pasted image 20231014151945.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014151945.png)
 ![Pasted image 20231014152016.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014152016.png)
 #### Calcificacion pulpar
