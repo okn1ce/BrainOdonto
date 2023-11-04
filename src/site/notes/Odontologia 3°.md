@@ -31,6 +31,10 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 
 # Derniers ajouts : 
 
+## 04/11/2023
+- Ajout du bloc "Patologia Pulpar" : [[PTD/Patologias/Patologia Pulpar/Necrosis pulpar\|Necrosis pulpar]], [[PTD/Patologias/Patologia Pulpar/Pulpitis Reversible\|Pulpitis Reversible]], [[PTD/Patologias/Patologia Pulpar/Pulpitis Irreverisble\|Pulpitis Irreverisble]],  [[PTD/Patologias/Patologia Pulpar/Patologia Pulpar\|Patologia Pulpar]], [[PTD/Patologias/Patologia Pulpar/Atrofia Pulpar\|Atrofia Pulpar]] et [[PTD/Patologias/Patologia Pulpar/Calcificaciones pulpares\|Calcificaciones pulpares]]
+## 02/11/2023
+- Ajout [[PTD/Patologias/Patologia Pulpar/Diagnostico endodoncia (PVP)\|Diagnostico endodoncia (PVP)]] et [[Instrumentos/Pulpómetro\|Pulpómetro]]
 ## 31/10/2023
 - Ajout [[Medicina Bucal I/Patologias/Penfigo\|Penfigo]] et [[Medicina Bucal I/Patologias/Penfigoide\|Penfigoide]]
 
