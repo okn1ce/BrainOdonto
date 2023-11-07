@@ -31,7 +31,7 @@
 
 ## Asociación con enfermedades sistémicas
 
-1. [[Medicina Bucal I/Patologias/Sindrome de Behçet\|Sindrome de Behçet]]
+1. [[Medicina Bucal I/Patologias/Sindromes/Sindrome de Behçet\|Sindrome de Behçet]]
 2. Enfermedad celiaca o enteropatia por intolerancia al gluten
 3. Enfermedad de Crohn y colitis ulcerosa
 4. Neutropenia ciclica
