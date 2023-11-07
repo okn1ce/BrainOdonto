@@ -16,7 +16,7 @@
 ## Pseudomembranosa Aguda. Muguet
 
 → Forma mas tipica
-→ Lactantes, ancianos, inmunodeprimidos, postirradiados, [[Medicina Bucal I/Etimiologias/Xerostomia\|Xerostomia]], [[Medicina Bucal I/Patologias/Sindrome de Sjögren\|Sindrome de Sjögren]], Diabetes Mellitus
+→ Lactantes, ancianos, inmunodeprimidos, postirradiados, [[Medicina Bucal I/Etimiologias/Xerostomia\|Xerostomia]], [[Medicina Bucal I/Patologias/Sindromes/Sindrome de Sjögren\|Sindrome de Sjögren]], Diabetes Mellitus
 
 **Apariencia** : 
 → Grumos o placas blanco-amarillentas que crecen de forma centrifuga y que ==se desprenden al raspado== dejando un fondo eritematoso.
