@@ -25,7 +25,7 @@ Diagnostico : vesiculas-erosion-ulcera-costra que no pasan la linea media.
 - Evolucion : forman pustulas y se ulceran, formando costras en labios y piel
 - Dolor constante o intermitente 
 
-Puede provocar el [[Medicina Bucal I/Patologias/Sindrome de Ramsay Hunt\|Sindrome de Ramsay Hunt]]
+Puede provocar el [[Medicina Bucal I/Patologias/Sindromes/Sindrome de Ramsay Hunt\|Sindrome de Ramsay Hunt]]
 
 ## Posibles complicaciones de la clinica
 
