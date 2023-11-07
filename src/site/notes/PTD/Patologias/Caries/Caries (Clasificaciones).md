@@ -16,7 +16,7 @@
 
 - En paciente con deterio de la funcion salival 
 - Muchos dientes afectados al mismo tiempo con caract. de caries agudas
-- Acompañada de un trastorno sistémico (como el [[Medicina Bucal I/Patologias/Sindrome de Sjögren\|Sindrome de Sjögren]] o [[Medicina Bucal I/Etimiologias/Xerostomia\|Xerostomia]])
+- Acompañada de un trastorno sistémico (como el [[Medicina Bucal I/Patologias/Sindromes/Sindrome de Sjögren\|Sindrome de Sjögren]] o [[Medicina Bucal I/Etimiologias/Xerostomia\|Xerostomia]])
 
 ![Pasted image 20231020093200.png|250x250](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020093200.png)
 
