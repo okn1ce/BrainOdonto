@@ -31,19 +31,27 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 
 # Derniers ajouts : 
 
+## 07/11/2023
+- Ajout d'une page pour les [[Instrumentos/Separadores/Separadores\|Separadores]]
+- Ajout du bloc "Patologia Periapical" → [[PTD/Patologias/Patologia periapical/Absceso Periapical\|Absceso Periapical]] et [[PTD/Patologias/Patologia periapical/Periodontitis Apical\|Periodontitis Apical]]
+- Ajout de [[Medicina Bucal I/Patologias/Eritema multiforme\|Eritema multiforme]]
+- Ajout de liens entre les anciens et les nouveaux cours.
+- Organisation des syndromes en un seul dossier.
+
 ## 06/11/2023
 - Ajout du bloc "Instrumentos" pour Chirurgie 
+	![Pasted image 20231106160030.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106160030.png)
 
 ## 04/11/2023
 - Ajout du bloc "Patologia Pulpar" : [[PTD/Patologias/Patologia Pulpar/Necrosis pulpar\|Necrosis pulpar]], [[PTD/Patologias/Patologia Pulpar/Pulpitis Reversible\|Pulpitis Reversible]], [[PTD/Patologias/Patologia Pulpar/Pulpitis Irreverisble\|Pulpitis Irreverisble]],  [[PTD/Patologias/Patologia Pulpar/Patologia Pulpar\|Patologia Pulpar]], [[PTD/Patologias/Patologia Pulpar/Atrofia Pulpar\|Atrofia Pulpar]] et [[PTD/Patologias/Patologia Pulpar/Calcificaciones pulpares\|Calcificaciones pulpares]]
 ## 02/11/2023
 - Ajout [[PTD/Patologias/Patologia Pulpar/Diagnostico endodoncia (PVP)\|Diagnostico endodoncia (PVP)]] et [[Instrumentos/Pulpómetro\|Pulpómetro]]
 ## 31/10/2023
-- Ajout [[Medicina Bucal I/Patologias/Penfigo\|Penfigo]] et [[Medicina Bucal I/Patologias/Penfigoide\|Penfigoide]]
+- Ajout [[Medicina Bucal I/Patologias/Autoinmunes/Penfigo\|Penfigo]] et [[Medicina Bucal I/Patologias/Autoinmunes/Penfigoide\|Penfigoide]]
 
 ## 28/10/2023
 - Ajout [[Medicina Bucal I/Patologias/Estomatitis Aftosa Recidivante (EAR)\|Estomatitis Aftosa Recidivante (EAR)]]
-- Ajout [[Medicina Bucal I/Patologias/Sindrome de Behçet\|Sindrome de Behçet]]
+- Ajout [[Medicina Bucal I/Patologias/Sindromes/Sindrome de Behçet\|Sindrome de Behçet]]
 - Ajout d'images sur [[Medicina Bucal I/Patologias/Infeccion bacterianas/Sifilis oral\|Sifilis oral]], [[Medicina Bucal I/Patologias/Infeccion bacterianas/Pericoronaritis\|Pericoronaritis]], [[Medicina Bucal I/Patologias/Infeccion bacterianas/Tuberculosis (TBC)\|Tuberculosis (TBC)]], [[Medicina Bucal I/Patologias/Infeccion bacterianas/Gingivitis por placa\|Gingivitis por placa]] y [[Medicina Bucal I/Patologias/Infeccion bacterianas/Gingivits necrotizante aguda\|Gingivits necrotizante aguda]]
 
 ## 25/10/2023
