@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/odontologia-3/","tags":["gardenEntry"]}
 ---
 
-![Pasted image 20231020131205.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020131205.png)
+![Pasted image 20231112220219.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231112220219.png)
 # C'est quoi ?
 
 Cette base de données contient toutes mes fiches (du moment), faisant office de "wikipédia" de toutes les informations des cours.
@@ -30,6 +30,9 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 ---
 
 # Derniers ajouts : 
+
+## 12/11/2023
+- Ajout du bloc "Conceptos básicos de la oclusión, dentición y arcadas dentarias"  → [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Oclusión, dentición y arcadas dentarias\|Oclusión, dentición y arcadas dentarias]], [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Músculos de la masticación\|Músculos de la masticación]], [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Ligamentos funcionales\|Ligamentos funcionales]], [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Dentadura humana y estructuras de sostén\|Dentadura humana y estructuras de sostén]] et [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Componentes óseos\|Componentes óseos]]
 
 ## 07/11/2023
 - Ajout d'une page pour les [[Instrumentos/Separadores/Separadores\|Separadores]]
