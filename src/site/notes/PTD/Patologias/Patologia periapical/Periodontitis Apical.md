@@ -10,6 +10,7 @@
 ![Pasted image 20231107102305.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231107102305.png)
 
 -> Bacterias en conducto producen vasodilatación, exudado de líquido e infiltración leucocitaria.
+→ Sur la RX : Gonflement / ligament radiolucide 
 
 ## Etiología 
 
