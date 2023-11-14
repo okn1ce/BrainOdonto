@@ -13,4 +13,4 @@ Muy <u>frecuente</u>.
 
 **Situaciones comunes** → Pacientes con habito de morderse o bruxomanos.
 
-**Diagnostico diferencial** : Leucoplasia, liquen plano y candidiasis
+**Diagnostico diferencial** : [[Medicina Bucal I/Patologias/Lesiones Potencialmente Malignas de la Mucosa Oral (precancerosas)/Leucoplasia\|Leucoplasia]], [[Medicina Bucal I/Patologias/Liquen plano\|Liquen plano]] y [[Medicina Bucal I/Patologias/Infeccion por Candida/Candidiasis\|Candidiasis]]
