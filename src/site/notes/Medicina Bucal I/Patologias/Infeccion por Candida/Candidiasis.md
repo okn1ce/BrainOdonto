@@ -64,7 +64,7 @@
 → Displasias epiteliales
 → Riesgo de malignizacion ! 
 → Pacientes fumadores, mala higiene bucal
-→ DD con leucoplasias (Biopsia)
+→ DD con [[Medicina Bucal I/Patologias/Lesiones Potencialmente Malignas de la Mucosa Oral (precancerosas)/Leucoplasia\|Leucoplasia]] (Biopsia)
 
 ![Pasted image 20231018223931.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018223931.png)
 
