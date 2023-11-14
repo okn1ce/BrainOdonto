@@ -29,4 +29,4 @@ Pueden curar en 1 o 2 dias.
 
 Tratamiento de la inmunidad mejora la lesion
 
-DIAGNOSTICO DIFERENCIAL CON LEUCOPLASIA!!
+DIAGNOSTICO DIFERENCIAL CON [[Medicina Bucal I/Patologias/Lesiones Potencialmente Malignas de la Mucosa Oral (precancerosas)/Leucoplasia\|Leucoplasia]] !!
