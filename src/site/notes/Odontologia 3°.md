@@ -31,6 +31,12 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 
 # Derniers ajouts : 
 
+## 14/11/2023
+- Ajout du bloc "Lesiones precancerosas" en MB 
+→ [[Medicina Bucal I/Patologias/Lesiones Potencialmente Malignas de la Mucosa Oral (precancerosas)/Eritroplasias\|Eritroplasias]], [[Medicina Bucal I/Patologias/Lesiones Potencialmente Malignas de la Mucosa Oral (precancerosas)/Lesiones precancerosas\|Lesiones precancerosas]], [[Medicina Bucal I/Patologias/Lesiones Potencialmente Malignas de la Mucosa Oral (precancerosas)/Leucoplasia\|Leucoplasia]] y [[Medicina Bucal I/Patologias/Lesiones Potencialmente Malignas de la Mucosa Oral (precancerosas)/Leucoplasias Verrugosa Proliferativa\|Leucoplasias Verrugosa Proliferativa]]
+- Ajout de [[Medicina Bucal I/Patologias/Liquen plano\|Liquen plano]]
+- Ajout de [[Medicina Bucal I/Patologias/Autoinmunes/Lupus eritematoso\|Lupus eritematoso]]
+- Ajout de liens entre les anciens et les nouveaux cours.
 ## 12/11/2023
 - Ajout du bloc "Conceptos básicos de la oclusión, dentición y arcadas dentarias"  → [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Oclusión, dentición y arcadas dentarias\|Oclusión, dentición y arcadas dentarias]], [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Músculos de la masticación\|Músculos de la masticación]], [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Ligamentos funcionales\|Ligamentos funcionales]], [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Dentadura humana y estructuras de sostén\|Dentadura humana y estructuras de sostén]] et [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Componentes óseos\|Componentes óseos]]
 
