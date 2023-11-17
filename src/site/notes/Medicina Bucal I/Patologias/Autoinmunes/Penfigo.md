@@ -60,14 +60,14 @@ Hacer un raspado y una analisis para hacer el diagnostico final :
 
 Utilización de corticoides (alta dosis y tiempo prolongado) + inmunosupresores
 
-###### **Corticoides :**
-- Sistemicos : **Prednisona** 1mg/kg/dia
-- Topicos : **Fluocinolona** 0,05% + **propionato de clobetaso** 0,05% se pone en ferulas sobre las encias.
+###### Corticoides :
+- Sistemicos : [[Farmacos/Corticoesteroides (o corticoides)#Prednisona\|Prednisona]] 1mg/kg/dia
+- Topicos : [[Farmacos/Corticoesteroides (o corticoides) tópicos#Fluocinolona\|Fuocinolona]] crema 0,05% + [[Farmacos/Corticoesteroides (o corticoides) tópicos#Propionato de clobetasol\|propionato de clobetaso]] crema 0,05% se pone en ferulas sobre las encias.
 
-###### Inmunosupresores (Azatioprina, ciclofosfamida, metrotexate y ciclosporina) : 
-- **Mofetil micofenolato** 2g/día durante 2-3 meses
+###### Inmunosupresores : 
+- [[Farmacos/Inmunosupresores#Mofetil micofenolato\|Mofetil micofenolato]] 2g/día durante 2-3 meses
 	- Efectos secundarios : linfopenia, alt. Gastrointestinales y fatiga
-- **Azatioprina** 3mg/kg/día 
+- [[Farmacos/Inmunosupresores#Azatioprina\|Azatioprina]] 3mg/kg/día 
 	- Leucopenia, pacnitopenia, hepatoxicidad, nauseas y fiebre
 
 # Pronostico y evolución 
