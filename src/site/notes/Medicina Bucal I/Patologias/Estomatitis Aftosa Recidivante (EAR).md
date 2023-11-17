@@ -37,7 +37,7 @@
 4. Neutropenia ciclica
 5. Sindrome de fiebre periodica, aftosis, faringits y adenopatia
 6. VIH
-7. Sindrome de REiter
+7. Sindrome de Reiter
 8. Sindrome de Magic
 9. Sindrome de Sweet
 
@@ -73,8 +73,8 @@ Localizadas en **mucosa de revistimiento**. Rara en mucosa queratinizada !
 Evoluciona sin secuelas en 10-14 dias
 
 **Tratamiento** : 
-- Brotes esporadicos : Tto topico corticoides de baja potencia
-- Acetoniodo de triamcinolona 0.1% o gel 3v/dia
+- Brotes esporadicos : Tto [[Farmacos/Corticoesteroides (o corticoides) tópicos\|Corticoesteroides (o corticoides) tópicos]] de baja potencia
+- [[Farmacos/Corticoesteroides (o corticoides) tópicos#Triamcinolona\|Acetonido de Triamcinolona]] 0.1% o gel 3v/dia
 - Clorhexidina + lidocaina 2%
 
 ![Pasted image 20231028150242.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150242.png)
@@ -99,8 +99,6 @@ DD con COCE
 
 - **Aftosis bipolar de Newton** : aftas orales y genitales
 - **Enfermedad de Sutton** : Afta mayor en la vecindad de una glandula salival menor (lo afecta).
-
-
 
 ### Ulceraciones herpetiformes recurrentes
 ---
@@ -137,7 +135,7 @@ Clinica + Histologia + Pruebas complementarias
 1. **[[Medicina Bucal I/Patologias/Infecciones víricas/Virus del Herpes Simple#Herpes Intraoral\|Herpes Intraoral recidivante]]** 
 - Vesiculas en paladar duro y encias
 - Antecedentes de herpes
-2. **Eritema exudativa Multiforme (EEM)**
+2. [[Medicina Bucal I/Patologias/Eritema multiforme\|Eritema multiforme]]
 - Vesiculas, ampollas, erosiones y costras, tambien en piel
 3. **Reaccion de hipersensibilidad a un alergeno**
 - Eritema fijo medicamentoso
@@ -167,15 +165,15 @@ Clinica + Histologia + Pruebas complementarias
 **→ Reducen la duración de las lesiones**
 --- 
 **Antibioticos** : 
-- Tetraciclinas 250mg 3-4v/dia
-- Doxicilina 100mg en 10ml o gel
-- Minocilina al 12% en solucion
+- [[Farmacos/Antibioticos#Tetraciclinas\|Tetraciclinas]] 250mg 3-4v/dia
+- [[Farmacos/Antibioticos#Doxiciclina\|Doxiciclina]]100mg en 10ml o gel
+- [[Farmacos/Antibioticos#Minociclina\|Minociclina]] al 12% en solucion
 **→ Reducen el dolor y la duración de las lesiones**
 ---
 **Corticoides locales** : 
-- Acetonido de Triamcinolona al 0.1%
-- Acetonido Fuocinolona al 0.05%
-- 17 propionato de clobetasol al 0.05%
+- [[Farmacos/Corticoesteroides (o corticoides) tópicos#Triamcinolona\|Acetonido de Triamcinolona]] al 0.1%
+- [[Farmacos/Corticoesteroides (o corticoides) tópicos#Fluocinolona\|Acetonido Fuocinolona]] al 0.05%
+- [[Farmacos/Corticoesteroides (o corticoides) tópicos#Propionato de clobetasol\|Propionato de clobetasol]] al 0.05%
 - 3v/dia desde la aparicion de las lesiones hasta su fin
 - Pueden producir condidasis como efecto secundario
 **→ Reducen el dolor y aceleran la curación**
@@ -186,9 +184,9 @@ Clinica + Histologia + Pruebas complementarias
 ### Sistemico o General
 
 1. **Corticoides :** 
-Prednisona 1mg/kg/dia, una hora después de levantarse.
+[[Farmacos/Corticoesteroides (o corticoides)#Prednisona\|Prednisona]] 1mg/kg/dia, una hora después de levantarse.
 Efectos secundarios a largo plazo.
-Prednisona + azatioprina (inmunosupresor)
+[[Farmacos/Corticoesteroides (o corticoides)#Prednisona\|Prednisona]] + [[Farmacos/Inmunosupresores#Azatioprina\|Azatioprina]]
 
 2. **Talidomida**  :
 Inmunomoduladora. 100mg/dia durante 2 o 3 meses.
