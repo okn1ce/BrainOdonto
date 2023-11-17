@@ -53,7 +53,7 @@
 
 ## Sifilis primaria y secundaria : 
 - Penicilina G benzatina 2,5m en una sola dosis IM
-- Tetraciclinas o eritromizina en caso de alergia
+- [[Farmacos/Antibioticos#Tetraciclinas\|Tetraciclinas]] o eritromizina en caso de alergia
 
 ## Sifilis Terciaria
 - Penicilina G benzatina 2,4m cada 7 dias durante 3 semanas
