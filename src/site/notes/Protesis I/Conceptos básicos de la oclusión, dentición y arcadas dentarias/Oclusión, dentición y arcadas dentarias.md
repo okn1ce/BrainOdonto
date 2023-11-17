@@ -18,5 +18,5 @@
 - [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Componentes óseos\|Huesos]]
 - [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Músculos de la masticación\|Músculos de la masticación]]
 - Articulaciones (ATM)
-- [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Ligamentos funcionales\|Ligamentos funcionales]]
+- [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Ligamentos funcionales y de sosten\|Ligamentos funcionales y de sosten]]
 
