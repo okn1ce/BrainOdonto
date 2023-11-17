@@ -114,7 +114,8 @@ Generalmente se tratan las atrófico erosivas que producen síntomas.
 - [[Farmacos/Corticoesteroides (o corticoides) tópicos#Fluocinolona\|Fluocinolona 0,1%]]
 - [[Farmacos/Corticoesteroides (o corticoides) tópicos#Propionato de clobetasol\|Clobetasol 0,05%]]
 
-**Tacrolimus tópico** : 
+**Inmunosupresor** : 
+[[Farmacos/Inmunosupresores#Tacrolimus topico\|Tacrolimus topico]] : 
 - Enjuages con tracolimus 0.1ml por 100ml de agua, 4v/d 6 meses
 
 **Corticoesteroides sistémicos** :
