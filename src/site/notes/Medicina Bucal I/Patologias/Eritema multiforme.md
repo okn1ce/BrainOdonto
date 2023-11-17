@@ -44,8 +44,8 @@ Se limita a una solo zona de la mucosa que generalmente es la oral.
 
 #### Tratamiento : 
 - Corticoesteroides tópicos 
-	- Triamcinolona, propionato de clobetasol y fluocinolona
-- Corticoesteroides sistémicos en lesiones severas
+	- [[Farmacos/Corticoesteroides (o corticoides) tópicos#Triamcinolona\|Triamcinolona]], [[Farmacos/Corticoesteroides (o corticoides) tópicos#Propionato de clobetasol\|Clobetasol]] y [[Farmacos/Corticoesteroides (o corticoides) tópicos#Fluocinolona\|Fluocinolona]]
+- [[Farmacos/Corticoesteroides (o corticoides)\|Corticoesteroides sistémicos]] en lesiones severas
 
 ### Eritema multiforme Mayor
 ---
@@ -55,7 +55,7 @@ Se limita a una solo zona de la mucosa que generalmente es la oral.
 Se afectan *varias mucosas* (genital, ocular, laringea, esofagica y genital)
 - Las lesiones cutaneas son similares a las de la forma menor, pero mas ampollas
 #### Tratamiento : 
-- Corticoesteroides sistémicos solos o combinados con azatioprina 
+- [[Farmacos/Corticoesteroides (o corticoides)\|Corticoesteroides sistémicos]] solos o combinados con [[Farmacos/Inmunosupresores#Azatioprina\|Azatioprina]]
 ### Sindrome Stevens-Johnson
 ---
 
