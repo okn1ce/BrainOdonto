@@ -22,7 +22,7 @@ Clinico !
 Descartar VIH, leucemia o agranulocitosis 
 **Hacer DD con** :
 - Primoinfeccion herpética
-- Eritema multiforme
+- [[Medicina Bucal I/Patologias/Eritema multiforme\|Eritema multiforme]]
 - Gingivitis descamativa
 - Gingivits por placa o abscesos periodontales
 
