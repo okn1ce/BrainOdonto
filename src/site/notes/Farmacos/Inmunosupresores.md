@@ -26,3 +26,14 @@
 🗓️ 2 veces al dia, 12h entre cada dosis. 
 
 ⚠️ → **Las mujeres embarazadas o que puedan quedar embarazadas no deben tomar micofenolato**
+
+### Tacrolimus topico
+---
+![Pasted image 20231117032035.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117032035.png)
+
+🎯 Reducir la actividad del sistema inmunologico del cuerpo.
+🤰Evaluar riesgo/beneficio
+🥛Evitar
+ℹ️ MUY potente
+💊 Crema
+🗓️ 2 veces al dia
