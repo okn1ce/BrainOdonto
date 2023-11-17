@@ -31,7 +31,7 @@ Encía, mucosa yugal, suelo de la boca y lengua
 **Localización** : Encias, mucosas yugales, lengua, labios, suelo de boca y paladar.
 **Motivos de consulta** : Hallazgo casual 60% y molestias 40%
 
-Dos tipos de leucoplasia : 
+Tres tipos de leucoplasia : 
 
 1. **Leucoplasia homogénea** -> Placa blanca sin alteracíones de color 
 2. **Leucoplasia no homogénea** -> No es totalmente blanca o plana 
