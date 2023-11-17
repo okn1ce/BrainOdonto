@@ -9,7 +9,7 @@ Manifestaciones orales que aparacen antes de 24 horas producidas por la administ
 
 **Apparence** : Eritemas, vesiculas, ampollas y ulceraciones. Lesiones cutaneas.
 
-**Tratamiento** : Corticoides sistémicos
+**Tratamiento** : [[Farmacos/Corticoesteroides (o corticoides)\|Corticoides sistémicos]]
 
 # E. Por contacto
 
