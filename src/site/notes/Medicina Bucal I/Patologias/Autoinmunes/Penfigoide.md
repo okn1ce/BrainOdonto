@@ -49,11 +49,11 @@ Detecta anticuerpos en el suero del paciente.
 
 ## Alta riesgo
 
-- Prednisona 40-60mg/dia o 1mg/kg/dia asociado a ciclosporina (1-2mg/kg/dia) o Azitromicina (1-2mg/kg/dia)
-- Dapsona (50-100mg/dia) y se inicia con 25mg/dia y se va aumentando cada 3 dias 25mg hasta los 100mg/dia
-- Mofetil micofenolato 500mg/dia
+- [[Farmacos/Corticoesteroides (o corticoides)#Prednisona\|Prednisona]] 40-60mg/dia o 1mg/kg/dia asociado a ciclosporina (1-2mg/kg/dia) o Azitromicina (1-2mg/kg/dia)
+- [[Farmacos/Antibioticos#Dapsona\|Dapsona]] (50-100mg/dia) y se inicia con 25mg/dia y se va aumentando cada 3 dias 25mg hasta los 100mg/dia
+- [[Farmacos/Inmunosupresores#Mofetil micofenolato\|Mofetil micofenolato]] 500mg/dia
 
 ## Bajo riesgo
-- Corticoides topicos potencia moderada o alta aplicados en forma de pomada o colutorio. Emplear férulas
-- Propionato de clobetasol
-- Acetonido de fluocinolona
+- [[Farmacos/Corticoesteroides (o corticoides) tópicos\|Corticoesteroides (o corticoides) tópicos]] potencia moderada o alta aplicados en forma de pomada o colutorio. Emplear férulas.
+	- [[Farmacos/Corticoesteroides (o corticoides) tópicos#Propionato de clobetasol\|Propionato de clobetasol]]
+	- [[Farmacos/Corticoesteroides (o corticoides) tópicos#Fluocinolona\|Acetonido de fluocinolona]]
