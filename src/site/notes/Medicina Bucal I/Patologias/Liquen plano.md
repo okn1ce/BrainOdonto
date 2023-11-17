@@ -109,10 +109,15 @@ Generalmente se tratan las atrófico erosivas que producen síntomas.
 ![Pasted image 20231114104810.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231114104810.png)
 ![Pasted image 20231114104827.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231114104827.png)
 
+**Corticoides topicos** : 
+- [[Farmacos/Corticoesteroides (o corticoides) tópicos#Triamcinolona\|Triamcinolona 0,1%]]
+- [[Farmacos/Corticoesteroides (o corticoides) tópicos#Fluocinolona\|Fluocinolona 0,1%]]
+- [[Farmacos/Corticoesteroides (o corticoides) tópicos#Propionato de clobetasol\|Clobetasol 0,05%]]
+
 **Tacrolimus tópico** : 
 - Enjuages con tracolimus 0.1ml por 100ml de agua, 4v/d 6 meses
 
 **Corticoesteroides sistémicos** :
 - En caso de fracaso de los ttº locales
-- 30-80mg/d de prednisona, 1/d 3 semanas
+- 30-80mg/d de [[Farmacos/Corticoesteroides (o corticoides)#Prednisona\|Prednisona]], 1/d 3 semanas
 - Con ttº locales
