@@ -9,4 +9,4 @@ Sutancias para el aumento de los tejudos bland por motivos estéticos → ocasio
 
 **Apparence** : Pueden aparecer estas reacciones entre 2-16 anos tras la infiltracion del producto. Tumefaccion de consistencia dura, enrojecimienot, sensacion urente, dolor y sensibilidad a la palpacion.
 
-**Tratamiento** : Etiologico (remocion producto) muy complicado. Entonces, tt° sintomatico corticoides locales, sistémicos, minociclina y imiquimod 5%
+**Tratamiento** : Etiologico (remocion producto) muy complicado. Entonces, tt° sintomatico [[Farmacos/Corticoesteroides (o corticoides) tópicos\|corticoides locales]], [[Farmacos/Corticoesteroides (o corticoides)\|sistémicos]], [[Farmacos/Antibioticos#Minociclina\|minociclinas]] y imiquimod 5%
