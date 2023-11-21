@@ -93,7 +93,7 @@ Podromos en el 30% de casos : odinofagia, cefaleas, fiebre, mialgia, rash, neumo
 
 - Proceso autolimitado 
 - Identificar la causa 
-	- Si es herpes : 5 dias con aciclovir o profilaxis con 400mg aciclovir durante 6 meses
+	- Si es herpes : 5 dias con [[Farmacos/Antiviricos#Aciclovir\|Aciclovir]] o profilaxis con 400mg [[Farmacos/Antiviricos#Aciclovir\|Aciclovir]] durante 6 meses
 - Para dolor : Lidocaína al 2%
 - Plasmaféresis en formas muy severas
 
