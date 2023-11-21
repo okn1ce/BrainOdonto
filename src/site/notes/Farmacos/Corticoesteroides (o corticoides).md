@@ -2,12 +2,7 @@
 {"dg-publish":true,"permalink":"/farmacos/corticoesteroides-o-corticoides/"}
 ---
 
-🎯 Uso
-🤰Embarazo
-🥛Lactancia
-ℹ️ Informacion 
-💊 Forma
-🗓️ Posologia
+🎯 Uso 🤰Embarazo🥛Lactancia ℹ️ Informacion 💊 Forma 🗓️ Posologia
 ### Prednisona
 ---
 
