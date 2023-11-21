@@ -2,12 +2,7 @@
 {"dg-publish":true,"permalink":"/farmacos/antibioticos/"}
 ---
 
-🎯 Uso
-🤰Embarazo
-🥛Lactancia
-ℹ️ Informacion 
-💊 Forma
-🗓️ Posologia
+🎯 Uso 🤰Embarazo🥛Lactancia ℹ️ Informacion 💊 Forma 🗓️ Posologia
 ### Tetraciclinas
 ---
 
@@ -50,3 +45,14 @@
 ℹ️ Contraindicaciones con anemia ferropénica
 💊 Tabletas para tomar por vía oral
 🗓️ 1v/dia o 3v/semana
+
+
+### Metronidazol
+---
+![Pasted image 20231117154544.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117154544.png)
+
+🎯 Antiinfeccioso antibacteriano y antiparasitario
+🥛Evitar
+ℹ️ Contraindicaciones con anemia ferropénica
+💊 Tableta, una tableta de liberación prolongada y como una cápsula para tomar por vía oral.
+🗓️ 1 a 2v/d
