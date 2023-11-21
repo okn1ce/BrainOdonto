@@ -27,8 +27,8 @@
 
 # Tratamiento
 → Durante el brote agudo
-- AINES (ibuprofeno 400mg 6-8h)
-- Asociar ATB (amox-clav 875/125mg)
+- AINES : [[Farmacos/Antiinflamatorio#Ibuprofeno\|Ibuprofeno]] 400mg 6-8h
+- Asociar ATB : Amox-clav 875/125mg
 
 → Pasado el brote agudo
 - Exodoncia del diente (salvo en brotes leves y posicion favorable del diente)
