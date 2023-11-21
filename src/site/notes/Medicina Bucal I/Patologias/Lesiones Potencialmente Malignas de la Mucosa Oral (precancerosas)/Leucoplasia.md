@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicina-bucal-i/patologias/lesiones-potencialmente-malignas-de-la-mucosa-oral-precancerosas/leucoplasia/"}
+{"dg-publish":true,"permalink":"/medicina-bucal-i/patologias/lesiones-potencialmente-malignas-de-la-mucosa-oral-precancerosas/leucoplasia/","tags":["Precancerosa","LesionesBlancas"]}
 ---
 
 Trastorno de la mucosa que cursan con : 
@@ -39,7 +39,7 @@ Tres tipos de leucoplasia :
 		 1. Eritroleucoplasias			
 		 2.  Nodulares
 	2. Verrugosas o exofÍticias
-3. **Leucoplasia verrugosa proliferativa**
+3. [[Medicina Bucal I/Patologias/Lesiones Potencialmente Malignas de la Mucosa Oral (precancerosas)/Leucoplasias Verrugosa Proliferativa\|Leucoplasias Verrugosa Proliferativa]]
 
 ###### Leucoplasia homogénea
 
@@ -60,7 +60,7 @@ Limites bien **delimitadas** y puede presentar **grietas** o **fisuras superfici
 
 ###### Leucoplasia no homogénea
 
-Es una **lesion redominantemente blanca o roja**, no bien **delimitadas** y con una superficie **irregular**.
+Es una **lesion predominantemente blanca o roja**, no bien **delimitadas** y con una superficie **irregular**.
 - Excrecencias redondeadas rojas y blancas
 - Nodular o moteada
 - Lesiones blancas exofiticas 
@@ -94,7 +94,7 @@ Dos posibilidades :
 
 1. [[Medicina Bucal I/Patologias/Infeccion por Candida/Candidiasis\|Candidiasis]]
 2. [[Medicina Bucal I/Patologias/Autoinmunes/Lupus eritematoso\|Lupus eritematoso]]
-3. Lesiones traumaticas
+3. Lesiones traumaticas ([[Medicina Bucal I/Patologias/Lesiones/Lesiones traumaticas/Mucosa mordisqueada\|Mucosa mordisqueada]] por ej.)
 4. Lesiones blancas hereditarias (Nevus blanco esponjoso)
 5. Otras (Leucoplasia vellosa, quemaduras quimicas, lesiones papilomatosas)
 
