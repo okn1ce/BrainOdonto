@@ -5,4 +5,4 @@
 
 → Algunos fármacos pueden producir **grandes erosiones y úlceras** en la mucosa oral **sin conocerse el mecanismo exacto**
 
-Ej : Metamizol, antiinflamatorios o alendronato
+Ej : Metamizol, [[Farmacos/Antiinflamatorio\|Antiinflamatorio]] o alendronato
