@@ -38,15 +38,15 @@ Puede provocar el [[Medicina Bucal I/Patologias/Sindromes/Sindrome de Ramsay Hun
 
 Diagnostico por clinica + deteccion de anticuerpos monoclonales y cultivo PCR
 
-→ Aciclovir 800mg 5v/dia / 15 dias
-→ Farmciclovir 500mg 3v/dia / 10 dias
+→ [[Farmacos/Antiviricos#Aciclovir\|Aciclovir]] 800mg 5v/dia / 15 dias
+→ [[Farmacos/Antiviricos#Famciclovir\|Famciclovir]] 500mg 3v/dia / 10 dias
 → Valaciclovir 1000mg 3v/dia / 10 dias
 +
 → Paracetamol con codeina
 
 Para **inmunocomprometidos** : 
-- Aciclovir IV 5-10mg/kg 3v/dia 5 dias
-- Aciclovir o famciclovir o valaciclovir 
+- [[Farmacos/Antiviricos#Aciclovir\|Aciclovir]] IV 5-10mg/kg 3v/dia 5 dias
+- [[Farmacos/Antiviricos#Aciclovir\|Aciclovir]] o [[Farmacos/Antiviricos#Famciclovir\|Famciclovir]] o valaciclovir 
 - En resistencias :
 	- Foscarnet IV 40mg/kg 8H
 	- Cidofovor 3-5mg/kg/semana
