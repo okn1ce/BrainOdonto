@@ -2,12 +2,7 @@
 {"dg-publish":true,"permalink":"/farmacos/corticoesteroides-o-corticoides-topicos/"}
 ---
 
-🎯 Uso
-🤰Embarazo
-🥛Lactancia
-ℹ️ Informacion 
-💊 Forma
-🗓️ Posologia
+🎯 Uso 🤰Embarazo🥛Lactancia ℹ️ Informacion 💊 Forma 🗓️ Posologia
 ### Triamcinolona
 ---
 ![Pasted image 20231117020113.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117020113.png)
