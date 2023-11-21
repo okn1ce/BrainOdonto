@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicina-bucal-i/patologias/liquen-plano/"}
+{"dg-publish":true,"permalink":"/medicina-bucal-i/patologias/liquen-plano/","tags":["LesionesBlancas"]}
 ---
 
 
@@ -39,13 +39,13 @@ Manifestación **en piel, mucosa oral**, **uñas**, **cuero cabelludo** y otras 
 - Tres tipos clínicos : **reticular, atrófico y erosivo**
 
 **Reticular** : En mucosa yugal, caracter simétrico y escasos síntomas
-**Atrófico** : En mucosas yugales, lengua y encias (gingivits descamatia) con molestias pero no dolor
+**Atrófico** : En mucosas yugales, lengua y encias (gingivits descamativa) con molestias pero no dolor
 **Erosivo** : Lesiones erosivas que provocan dolor.
 
 
 **Lesiones** : 
 - Estrías blancas
-- Lesiones attróficas y erosivas rodeadas de estrías
+- Lesiones atróficas y erosivas rodeadas de estrías
 - Frecuente localización bilateral en mucosa yugal
 
 **Curso** : 
@@ -72,7 +72,7 @@ Manifestación **en piel, mucosa oral**, **uñas**, **cuero cabelludo** y otras 
 ---
 
 
-- Degeneracíon hidrópica de la capa basal epitelial
+- Degeneracíon hidrópica (=acumulación intracelular de un mayor volumen de agua de la capa basal epitelial)
 - Infiltrado en la banda subepitelial de linfocitos T 
 - No signos de displasia epitelial
 
