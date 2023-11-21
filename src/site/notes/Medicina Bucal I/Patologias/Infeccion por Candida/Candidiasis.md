@@ -129,40 +129,40 @@ Papilar hiperplasica, aspecto granular o nodular
 ## Candidiasis pseudomenbranosa
 
 → Tratamiento farmacológico : 
-- Nistatina solución 100.000UI/cc **4-6v/día** **30 días**
-- Miconazol gel 100 mg **4v/día** **30 días**
-- Si no responde en 3 semanas: ketoconazol comp. **200mg/día 14 días** o fluconazol **100mg/día 15 días**
+- [[Farmacos/Antifungico#Nistatina\|Nistatina]] solución 100.000UI/cc **4-6v/día** **30 días**
+- [[Farmacos/Antifungico#Miconazol\|Miconazol]] gel 100 mg **4v/día** **30 días**
+- Si no responde en 3 semanas: [[Farmacos/Antifungico#Ketoconazol\|Ketoconazol]] comp. **200mg/día 14 días** o [[Farmacos/Antifungico#Fluconazol\|Fluconazol]] **100mg/día 15 días**
 
 ## Candidiasis eritematosa
 
 → Tratamiento farmacológico : 
-- Nistatina solución 100.000UI/cc 4-6v/día 30 días
-- Miconazol gel 100 mg 4v/día 30 días
+- [[Farmacos/Antifungico#Nistatina\|Nistatina]] solución 100.000UI/cc 4-6v/día 30 días
+- [[Farmacos/Antifungico#Miconazol\|Miconazol]] gel 100 mg 4v/día 30 días
 
 ## Candidiasis hiperplasica
 
 → Factores predisponentes : tabaco, protesis
 → Biopsia 
-→ Nistatina, miconazol 2 meses si no responde fluconazol
+→ [[Farmacos/Antifungico#Nistatina\|Nistatina]], [[Farmacos/Antifungico#Miconazol\|Miconazol]] 2 meses si no responde [[Farmacos/Antifungico#Fluconazol\|Fluconazol]]
 
 ## Estomatitis protésica tt°
 
 → Factores predisponentes : cambiar rebasar prótesis, quitarla de noche, solucion de clorhexidina o anfotericina B
-→ Topicos nistatina, miconazol o ketoconazol bajo protesis 30 dias
+→ Topicos [[Farmacos/Antifungico#Nistatina\|Nistatina]], [[Farmacos/Antifungico#Miconazol\|Miconazol]] o [[Farmacos/Antifungico#Ketoconazol\|Ketoconazol]] bajo protesis 30 dias
 
 ## Quelitis angular o comisural
 
 → Factores predisponentes: dimensión vertical, xerostomía, avitaminosis
 → Tratamiento farmacologico : 
-- Nistatina solución 100.000UI/cc 4-6v/día 30 días
-- Miconazol gel 100 mg 4v/día 30 días
+- [[Farmacos/Antifungico#Nistatina\|Nistatina]] solución 100.000UI/cc 4-6v/día 30 días
+- [[Farmacos/Antifungico#Miconazol\|Miconazol]] gel 100 mg 4v/día 30 días
 
 ## Candidiasis en inmunodeprimidos y/o VIH
 
 → Combinar desde principio topico y sistemico
 → Tratamiento farmacologico : 
-- Nistatina o Moconazol gel
-- Fluconazol 100mg/dia o Ketoconazol 200-400mg/dia 3 semanas
+- [[Farmacos/Antifungico#Nistatina\|Nistatina]] o [[Farmacos/Antifungico#Miconazol\|Miconazol]] gel
+- [[Farmacos/Antifungico#Fluconazol\|Fluconazol]] 100mg/dia o [[Farmacos/Antifungico#Ketoconazol\|Ketoconazol]] 200-400mg/dia 3 semanas
 En casos resistentes → Itraconazol 200-400mg/dia 3 semanas
 
 
