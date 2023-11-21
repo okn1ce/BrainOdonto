@@ -7,7 +7,7 @@
 
 #### Odontoplasia regional
 
-[[PTD/Patologias/Odontodisplasia regional\|Odontodisplasia regional]]  → "dientes fantasmas". 
+[[PTD/Patologias/Anomalias Estructurales/Odontodisplasia regional\|Odontodisplasia regional]]  → "dientes fantasmas". 
 → Esmalte y Dentina hipoplasicos e hipocalcificados
 ![Pasted image 20231014144355.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014144355.png)![Pasted image 20231014144359.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014144359.png)
 
