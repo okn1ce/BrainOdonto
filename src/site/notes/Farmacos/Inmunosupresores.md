@@ -2,12 +2,7 @@
 {"dg-publish":true,"permalink":"/farmacos/inmunosupresores/"}
 ---
 
-🎯 Uso
-🤰Embarazo
-🥛Lactancia
-ℹ️ Informacion 
-💊 Forma
-🗓️ Posologia
+🎯 Uso 🤰Embarazo🥛Lactancia ℹ️ Informacion 💊 Forma 🗓️ Posologia
 ### Azatioprina
 ---
 
@@ -37,3 +32,5 @@
 ℹ️ MUY potente
 💊 Crema
 🗓️ 2 veces al dia
+
+
