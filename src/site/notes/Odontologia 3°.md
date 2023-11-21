@@ -34,12 +34,21 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 *17/11/2023*
 # Derniers ajouts : 
 
+## 20/11/2023
+- Correction de fautes d'orthographe.
+- Ajout de [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]]
+	- → Ajout de liens vers cette définition.
+- Ajout de contenu sur [[Medicina Bucal I/Patologias/Lesiones Potencialmente Malignas de la Mucosa Oral (precancerosas)/Leucoplasias Verrugosa Proliferativa\|Leucoplasias Verrugosa Proliferativa]]
+
 ## 17/11/2023
 - Ajout de la catégorie "Farmacos" (A compléter)
 	- [[Farmacos/Corticoesteroides (o corticoides)\|Corticoesteroides (o corticoides)]]
 	- [[Farmacos/Corticoesteroides (o corticoides) tópicos\|Corticoesteroides (o corticoides) tópicos]]
 	- [[Farmacos/Antibioticos\|Antibioticos]]
 	- [[Farmacos/Inmunosupresores\|Inmunosupresores]]
+	- [[Farmacos/Antiinflamatorio\|Antiinflamatorio]]
+	- [[Farmacos/Antiviricos\|Antiviricos]]
+	- [[Farmacos/Antifungico\|Antifungico]]
 	- → Ajout de liens entre les anciens et les nouveaux cours.
 - Ajout de [[Cirugia Bucal I/Valoración del riesgo quirurgico\|Valoración del riesgo quirurgico]]
 - Ajout de [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Ligamentos funcionales y de sosten\|Ligamentos funcionales y de sosten]] 
