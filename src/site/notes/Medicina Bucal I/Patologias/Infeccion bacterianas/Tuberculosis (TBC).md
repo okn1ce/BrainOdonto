@@ -24,14 +24,14 @@
 ## TBC Intraoral Primaria 
 - UIceras indoloras de morfologia irregular, consistencia blanda, poligonales y bordes dentados
 - Exudados amarillentos con abundante microbacterias
-- Adenopatias satélites con tendencia a abscesificarse y fistulizar
+- [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]] satélites con tendencia a abscesificarse y fistulizar
 - Fiebre, pérdida de peso, tos y cansancio
 - Ninos y adultos jovenes
 
 
 ## Linfadenitis Tuberculosa Cervical
 - Forma mas frecuente de TBC extrapulmonar
-- Adenopatias satélites, móviles y fluctuantes con calcificaciones en el interior y tendencia a abscesificarse y fistulizar
+- [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]] satélites, móviles y fluctuantes con calcificaciones en el interior y tendencia a abscesificarse y fistulizar
 - Fiebre, pérdida de peso, tos y fatiga
 
 ![Pasted image 20231028150012.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150012.png)
@@ -52,7 +52,7 @@
 - Descartar VIH asociado
 
 # Tratamiento
--  Antibioticos prolongados
+-  [[Farmacos/Antibioticos\|Antibioticos]] prolongados
 - TTO al menos 6 meses
 → Isoniacina, rifampicina y pirazinamida durante 2 meses
 → Isoniacida durante 4 meses más
