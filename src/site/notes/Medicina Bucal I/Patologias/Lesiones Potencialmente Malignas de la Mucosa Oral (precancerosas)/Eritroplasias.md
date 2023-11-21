@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicina-bucal-i/patologias/lesiones-potencialmente-malignas-de-la-mucosa-oral-precancerosas/eritroplasias/"}
+{"dg-publish":true,"permalink":"/medicina-bucal-i/patologias/lesiones-potencialmente-malignas-de-la-mucosa-oral-precancerosas/eritroplasias/","tags":["Precancerosa","LesionesRojas"]}
 ---
 
 
