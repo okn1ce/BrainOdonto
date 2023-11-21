@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medicina-bucal-i/patologias/lesiones-potencialmente-malignas-de-la-mucosa-oral-precancerosas/lesiones-precancerosas/"}
+{"dg-publish":true,"permalink":"/medicina-bucal-i/patologias/lesiones-potencialmente-malignas-de-la-mucosa-oral-precancerosas/lesiones-precancerosas/","tags":["Precancerosa","LesionesBlancas"]}
 ---
 
 # Definición
