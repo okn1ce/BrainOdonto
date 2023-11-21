@@ -19,6 +19,6 @@ Dx dif : estomatitis aftosa
 # Enfermedad de boca-mano-pie
 ---
 
-- En ninos, muy contagiosa, fiebre, malestar y adenopatías.
+- En ninos, muy contagiosa, fiebre, malestar y [[Medicina Bucal I/Patologias/Adenopatías\|adenopatías]].
 - Erupción vesicular en boca (parte posterior) y pápulas eritematosas en palmas de las manos y plantas de los pies, que pueden llegar a ulcerarse.
 - Curan en 1-2 semanas
