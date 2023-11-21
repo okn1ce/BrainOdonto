@@ -35,7 +35,7 @@
 2. Enfermedad celiaca o enteropatia por intolerancia al gluten
 3. Enfermedad de Crohn y colitis ulcerosa
 4. Neutropenia ciclica
-5. Sindrome de fiebre periodica, aftosis, faringits y adenopatia
+5. Sindrome de fiebre periodica, aftosis, faringits y [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]]
 6. VIH
 7. Sindrome de Reiter
 8. Sindrome de Magic
@@ -68,13 +68,13 @@
 80% de los casos.
 Localizadas en **mucosa de revistimiento**. Rara en mucosa queratinizada !
 
-<u>Descripcion : </u>Ulcera redondeada u ovalada, tamano menos de 1cm, bordes eriteamtosos, poca profundidad, suelo limpio, color blanco por la necrosis, no adenopatias, sin reaccion sistématica.
+<u>Descripcion : </u>Ulcera redondeada u ovalada, tamano menos de 1cm, bordes eritematosos, poca profundidad, suelo limpio, color blanco por la necrosis, no [[Medicina Bucal I/Patologias/Adenopatías\|adenopatías]], sin reaccion sistématica.
 
 Evoluciona sin secuelas en 10-14 dias
 
 **Tratamiento** : 
 - Brotes esporadicos : Tto [[Farmacos/Corticoesteroides (o corticoides) tópicos\|Corticoesteroides (o corticoides) tópicos]] de baja potencia
-- [[Farmacos/Corticoesteroides (o corticoides) tópicos#Triamcinolona\|Acetonido de Triamcinolona]] 0.1% o gel 3v/dia
+	- [[Farmacos/Corticoesteroides (o corticoides) tópicos#Triamcinolona\|Acetonido de Triamcinolona]] 0.1% o gel 3v/dia
 - Clorhexidina + lidocaina 2%
 
 ![Pasted image 20231028150242.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150242.png)
@@ -87,7 +87,7 @@ Evoluciona sin secuelas en 10-14 dias
 10-15% de los casos
 Localizadas en mucosa de revestimiento pero puede afectar tambien paladar blando y faringe
 
-**<u>Descripcion</u> : Úlceras > 1 cm, ovaladas, formas más irregulares. Más profundas, con bordes eritematosos, no evertidos, ni infiltrados, fondo limpio, amarillento por el exudado fibrinoide, pueden presentar adenopatías. Son muy dolorosas.
+<u>Descripcion</u> : Úlceras > 1 cm, ovaladas, formas más irregulares. Más profundas, con bordes eritematosos, no evertidos, ni infiltrados, fondo limpio, amarillento por el exudado fibrinoide, pueden presentar [[Medicina Bucal I/Patologias/Adenopatías\|adenopatias]]. Son muy dolorosas.
 
 DD con COCE
 
@@ -106,7 +106,7 @@ DD con COCE
 5-10% de los casos.
 Localizadas en mucosa de revestimiento, pero son las que con mas frecuencia afectan a mucosa masticatoria.
 
-**<u>Descripcion</u> : Úlceras de pequeño diámetro (mm.) pero muy numerosas. Tienden a unirse y pueden formar úlceras más grandes de bordes irregulares.
+<u>Descripcion</u> : Úlceras de pequeño diámetro (mm.) pero muy numerosas. Tienden a unirse y pueden formar úlceras más grandes de bordes irregulares.
 
 DD con [[Medicina Bucal I/Patologias/Infecciones víricas/Virus del Herpes Simple#Herpes Intraoral\|Herpes simple recidivante intra oral]]
 
