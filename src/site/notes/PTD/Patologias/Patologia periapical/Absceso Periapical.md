@@ -9,11 +9,11 @@
 ![Pasted image 20231107104057.png|450](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231107104057.png)
 
 - O también llamado **periodontitis apical aguda supurada**
-- Evolucíon de [[PTD/Patologias/Patologia Pulpar/Necrosis pulpar\|Necrosis pulpar]] / [[PTD/Patologias/Patologia periapical/Periodontitis Apical#P.A Aguda\|Periodontitis apical aguda]]
+- Evolucíon de [[PTD/Patologias/Patologia Pulpar/Necrosis pulpar\|Necrosis pulpar]] / [[PTD/Patologias/Patologia periapical/Periodontitis Apical#Periodontitis apical aguda\|Periodontitis apical aguda]]
 - Se genera **exudado inflamatorio** y **infiltrado leucocitario**
 - Dolorosa
 - Posible celulitis 
-- Osteolisis y rziolisis desde el apice
+- Osteolisis y rizolisis desde el apice
 
 ### Clinica y Diagnostico
 
