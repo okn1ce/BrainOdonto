@@ -4,7 +4,7 @@
 
 # Concepto
 
-- Enfermedad grave **autoinmune** con manifestaciones mucocutaneas y lesion elemental es una **ampolla intraepitelial** originada por **[acantolisis]()** 
+- Enfermedad grave **autoinmune** con manifestaciones mucocutaneas y lesion elemental es una **ampolla intraepitelial** originada por **acantolisis**
 
 - Dos tipos : 
 	- Penfigo foliaceo (piel, vegetante y eritematoso)
@@ -38,7 +38,7 @@ Localización : **Áreas de roce (M. yugal, los labios, Paladar blando, encia al
 ![](https://www.uv.es/medicina-oral/Docencia/atlas/penfigo/pen1.jpg)
 ![](https://www.uv.es/medicina-oral/Docencia/atlas/penfigo/pen9.jpg)
 ![](https://www.uv.es/medicina-oral/Docencia/atlas/penfigo/pen6.jpg)
--> Gingivitis descamativa cronica (encias rojas eritematosas, brillantes, finas y con ampollas). La gingivitis por placa no es tan roja !
+-> Gingivitis descamativa cronica (encias rojas eritematosas, brillantes, finas y con ampollas). La [[Medicina Bucal I/Patologias/Infeccion bacterianas/Gingivitis por placa\|Gingivitis por placa]] no es tan roja !
 
 ![](https://www.uv.es/medicina-oral/Docencia/atlas/penfigo/pen4.jpg)
 
@@ -58,11 +58,11 @@ Hacer un raspado y una analisis para hacer el diagnostico final :
 
 **Objectivo :** Reducir los anticuerpos que producen el daño tisular.
 
-Utilización de corticoides (alta dosis y tiempo prolongado) + inmunosupresores
+Utilización de [[Farmacos/Corticoesteroides (o corticoides)\|Corticoesteroides (o corticoides)]] (alta dosis y tiempo prolongado) + [[Farmacos/Inmunosupresores\|Inmunosupresores]]
 
 ###### Corticoides :
 - Sistemicos : [[Farmacos/Corticoesteroides (o corticoides)#Prednisona\|Prednisona]] 1mg/kg/dia
-- Topicos : [[Farmacos/Corticoesteroides (o corticoides) tópicos#Fluocinolona\|Fuocinolona]] crema 0,05% + [[Farmacos/Corticoesteroides (o corticoides) tópicos#Propionato de clobetasol\|propionato de clobetaso]] crema 0,05% se pone en ferulas sobre las encias.
+- Topicos : [[Farmacos/Corticoesteroides (o corticoides) tópicos#Fluocinolona\|Fuocinolona]] crema 0,05% + [[Farmacos/Corticoesteroides (o corticoides) tópicos#Propionato de clobetasol\|propionato de clobetasol]] crema 0,05% se pone en ferulas sobre las encias.
 
 ###### Inmunosupresores : 
 - [[Farmacos/Inmunosupresores#Mofetil micofenolato\|Mofetil micofenolato]] 2g/día durante 2-3 meses
