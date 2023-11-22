@@ -17,7 +17,7 @@ Para los dientes maxilares en adultos o cualquier diente en ninos.
 
 ##### Indicaciones 
 - Obturaciones y endodoncias
-- Exodoncias para refuerzo palatino
+- [[Cirugia Bucal I/Exodoncia\|Exodoncia]] para refuerzo palatino
 
 ![Pasted image 20231009165023.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231009165023.png)
 
