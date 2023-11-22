@@ -33,6 +33,10 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 ![Pasted image 20231117031544.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117031544.png)
 *17/11/2023*
 # Derniers ajouts : 
+## 22/11/2023
+- Ajout de [[Cirugia Bucal I/Exodoncia\|Exodoncia]] 
+	- → Ajout de liens vers ce concept.
+- Correction de fautes d'orthographe.
 
 ## 20/11/2023
 - Correction de fautes d'orthographe.
