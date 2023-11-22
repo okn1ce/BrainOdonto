@@ -19,7 +19,7 @@
 ![Pasted image 20231029181112.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231029181112.png)
 
 #### Colaterales
-- Fijan los bordes internos y externo del disco articular → polos del conidilo
+- Fijan los bordes internos y externo del disco articular → polos del condilo
 - Limitan el movimiento de alejamiento del disco respecto al condilo
 - Responsables del movimiento de bisagra del ATM, entre el condilo y el disco articular
 
