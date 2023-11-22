@@ -26,16 +26,19 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 
 > [!info] Vous pouvez chercher n'importe quel mot
 > Suffit d'utiliser la barre de recherche et d'y écrire le mot (ex: Caries). Vous aurez une liste de cours ayant ce mot.
+
 ---
 
 # Bulle du contenu
 
-![Pasted image 20231117031544.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117031544.png)
-*17/11/2023*
+![Pasted image 20231122030434.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122030434.png)
+*22/11/2023*
 # Derniers ajouts : 
 ## 22/11/2023
 - Ajout de [[Cirugia Bucal I/Exodoncia\|Exodoncia]] 
 	- → Ajout de liens vers ce concept.
+- Ajout de [[Cirugia Bucal I/Tiempos del acto Quirurgico\|Tiempos del acto Quirurgico]]
+- Ajout de [[Protesis I/Biomecánica de la ATM y posiciones básicas de la mandibula\|Biomecánica de la ATM y posiciones básicas de la mandibula]]
 - Correction de fautes d'orthographe.
 
 ## 20/11/2023
@@ -56,7 +59,7 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 	- → Ajout de liens entre les anciens et les nouveaux cours.
 - Ajout de [[Cirugia Bucal I/Valoración del riesgo quirurgico\|Valoración del riesgo quirurgico]]
 - Ajout de [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Ligamentos funcionales y de sosten\|Ligamentos funcionales y de sosten]] 
-- Ajout de [[Protesis I/Anatomia y biodinimacia aplicada al complejo Temporomandibular\|Anatomia y biodinimacia aplicada al complejo Temporomandibular]]
+- Ajout de [[Protesis I/Anatomia y biodinamica aplicada al complejo Temporomandibular\|Anatomia y biodinamica aplicada al complejo Temporomandibular]]
 ## 14/11/2023
 - Ajout du bloc "Lesiones precancerosas" en MB 
 → [[Medicina Bucal I/Patologias/Lesiones Potencialmente Malignas de la Mucosa Oral (precancerosas)/Eritroplasias\|Eritroplasias]], [[Medicina Bucal I/Patologias/Lesiones Potencialmente Malignas de la Mucosa Oral (precancerosas)/Lesiones precancerosas\|Lesiones precancerosas]], [[Medicina Bucal I/Patologias/Lesiones Potencialmente Malignas de la Mucosa Oral (precancerosas)/Leucoplasia\|Leucoplasia]] y [[Medicina Bucal I/Patologias/Lesiones Potencialmente Malignas de la Mucosa Oral (precancerosas)/Leucoplasias Verrugosa Proliferativa\|Leucoplasias Verrugosa Proliferativa]]
