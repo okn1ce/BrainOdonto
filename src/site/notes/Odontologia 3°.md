@@ -34,6 +34,9 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 ![Pasted image 20231122030434.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122030434.png)
 *22/11/2023*
 # Derniers ajouts : 
+
+## 24/11/2023
+- Ajout de [[PTD/Radio/RADIOLOGÍA 2D- CBCT 3D\|RADIOLOGÍA 2D- CBCT 3D]]
 ## 22/11/2023
 - Ajout de [[Cirugia Bucal I/Exodoncia\|Exodoncia]] 
 	- → Ajout de liens vers ce concept.
