@@ -35,8 +35,13 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 *22/11/2023*
 # Derniers ajouts : 
 
+## 26/11/2023
+- Ajout de [[PTD/Radio/INTERPRETACION RADIOLOGÍA\|INTERPRETACION RADIOLOGÍA]]
+## 25/11/2023
+- Ajout de la fin de [[Cirugia Bucal I/Exodoncia\|Exodoncia]]
+	- → Ajout de liens vers ce concept.
 ## 24/11/2023
-- Ajout de [[PTD/Radio/RADIOLOGÍA 2D- CBCT 3D\|RADIOLOGÍA 2D- CBCT 3D]]
+- Ajout de [[PTD/Radio/RADIOLOGÍA 2D - CBCT 3D\|RADIOLOGÍA 2D - CBCT 3D]]
 ## 22/11/2023
 - Ajout de [[Cirugia Bucal I/Exodoncia\|Exodoncia]] 
 	- → Ajout de liens vers ce concept.
