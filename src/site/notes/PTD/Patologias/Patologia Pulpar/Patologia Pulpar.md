@@ -54,7 +54,7 @@ Hay tambien una estimulacion de las fibras C. Se hace cuando hay procesos inflam
 
 → Bacterias a traves de los tubulos dentinarios pueden llegar a la pulpa, por dos caminos : 
 - **Por la corona**
-	- [[PTD/Patologias/Caries/CARIES\|CARIES]]
+	- [[PTD/Patologias/Caries/Caries\|Caries]]
 	- Fisuras o fracturas
 	- Defecto desarrollo, invaginaciones, dens in dente
 - **Por la raiz**
