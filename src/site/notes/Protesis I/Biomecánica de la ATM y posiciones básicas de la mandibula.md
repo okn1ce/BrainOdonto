@@ -14,7 +14,7 @@ La **ATM** es una articulación compuesta y su estructura y función puede divid
 	- Movimiento libre de deslizamiento, **no** esta fuertemente unido a la fosa articular.
 	- Este movmt. se produce cuando la mandibula hacia delante → **Translación**
 
-![Pasted image 20231122182836.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122182836.png)
+![Pasted image 20231122182836.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122182836.png)
 *Movimiento normal del condilo y disco articular en la apertura de la boca.*
 
 → Incluso en reposo, los musculos se encuentran en un estado leve de contracción = **tono** (*tonus*).
@@ -30,11 +30,11 @@ La **ATM** es una articulación compuesta y su estructura y función puede divid
 
 → En el borde anterior del DA es el [[Protesis I/Conceptos básicos de la oclusión, dentición y arcadas dentarias/Músculos de la masticación#Pterigoideo Externo Superior\|Pterigoideo externo superior (o Pterigoideo lateral superior)]]. Esta musculo tiene una inserción en el disco de manera anterior y medial. Entonces, es un **probador del disco**, pero solo en la fasa elevadora de la mandibula. Cuando se realiza una apertura mandibular interviene el inferior que es antagonista del superior y este deja de actuar. Entonces, actua como un **freno**. 
 
-![Pasted image 20231122184449.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122184449.png)
+![Pasted image 20231122184449.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122184449.png)
 
 → **El mecanismo por el que el disco se mantiene junto al cóndilo en traslación** depende de la morfología y de la presión interarticular, que constituyen un factor importante de autoposicionamiento del disco.
 
-![Pasted image 20231122184912.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122184912.png)
+![Pasted image 20231122184912.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122184912.png)
 
 # Posición basicas de la mandibula
 ---
@@ -72,19 +72,19 @@ La **ATM** es una articulación compuesta y su estructura y función puede divid
 - La **cuspide lingual/palatinas** de los **maxilares** posteriores ocluyen a lo largo de las **areas de la fosa central de los dientes mandibulares**
 → Esta relación oclusal protege los tejidos blandos circundantes.
 
-![Pasted image 20231122190446.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122190446.png)
+![Pasted image 20231122190446.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122190446.png)
 
 - **Cuspide-fosa** : Semejante a un mortero y pistilo. Fuerzas cerca del centro del diente.
 - **Cuspide-reborde marginal** : Semejante a un cuspide sobre superficie plana.
 - Los contactos típicos de los dientes es de un diente **contra 2 antagonistas**, excepto los incisivos centrales manipulares y los terceros molares maxilares.
 
-![Pasted image 20231122193333.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122193333.png)
-![Pasted image 20231122193642.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122193642.png)
+![Pasted image 20231122193333.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122193333.png)
+![Pasted image 20231122193642.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122193642.png)
 
 → Los cuspides que ocluyen en las fosas centrales posteriores (palatinas maxilares y vestibulares mandibulares) se llaman **Cuspide centrica o de soporte** : Mantienen la dimension vertical
 → Los cuspides que no ocluyen en las fosas centrales posteriores (vestibulares maxilares y linguales mandibulares) se llaman **Cuspide guia, de no soporte**.
 
-![Pasted image 20231122191437.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122191437.png)
+![Pasted image 20231122191437.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122191437.png)
 
 ---
 
@@ -115,7 +115,7 @@ encore une fois : **ES INDEPENDIENTE DE LOS CONTACTOS OCLUSALES**
 - La **cúspide mesiobucal** del primer molar maxilar se alinea directamente sobre **el surco bucal del primer molar mandibular**.
 - La **cuspide mesiolingual** del primer molar maxilar se situa **en la fosa central del primer molar mandibular**
 
-![Pasted image 20231122195723.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122195723.png)
+![Pasted image 20231122195723.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122195723.png)
 *Class I*
 
 **Class II** :
@@ -124,7 +124,7 @@ encore une fois : **ES INDEPENDIENTE DE LOS CONTACTOS OCLUSALES**
 - La **cuspide mesiobucal** del primer molar mandibular se alinea directamente sobre **el surco bucal del primer molar maxilar**
 - La **cuspide distolingual** del primer molar maxilar **ocluye en la fosa central del primer molar mandibular**
 
-![Pasted image 20231122200003.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122200003.png)
+![Pasted image 20231122200003.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122200003.png)
 *Class II*
 
 **Class III** : 
@@ -133,7 +133,7 @@ encore une fois : **ES INDEPENDIENTE DE LOS CONTACTOS OCLUSALES**
 - La **cuspide mesiobucal** del primer molar maxilar se situa **en la zona de encaje entre el primer y segundo molar mandibular**
 - La **cuspide mesiolingual** del primer molar maxilar se situa **en la fosa mesial del segundo molar mandibular**
 
-![Pasted image 20231122200605.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122200605.png)
+![Pasted image 20231122200605.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122200605.png)
 *Class III*
 ##### Protrusión
 ---
@@ -141,17 +141,17 @@ encore une fois : **ES INDEPENDIENTE DE LOS CONTACTOS OCLUSALES**
 → Es un **desplazamiento de la mandibula de atras hacia delante** desde la posición de [[Protesis I/Biomecánica de la ATM y posiciones básicas de la mandibula#Maxima intercuspidación & relaciones\|maxima intercuspidación (MI)]].
 → En una **relación oclusal normal**, los contactos de protrusión predominantes se producen **en los dientes anteriores**, entre **los bordes incisales de los incisivos mandibulares** y las áreas de la fosa palatina y **los bordes incisales de los incisivos maxilares**. → Estas se consideran las **vertientes guía de los dientes anteriores**.
 
-![Pasted image 20231122201401.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122201401.png)
+![Pasted image 20231122201401.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122201401.png)
 
 → En ciertas condiciones, el movimiento puede estar guiado por c**ontactos de los dientes posteriores** (premolares y molares) lo que se considera una **guía posterior**
 → En los dientes posteriores el movimiento de protrusión consigue que las cúspides céntricas mandibulares (bucales) se deslicen de atrás hacia delante sobre las superficies oclusales de los dientes maxilares.
 
-![Pasted image 20231122201415.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122201415.png)
+![Pasted image 20231122201415.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122201415.png)
 
 → Hay 6 variantes de las relacionse dentarias anteriores, segun los clases vu précedemment : 
 
-![Pasted image 20231122201541.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122201541.png)
-![Pasted image 20231122201550.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122201550.png)
+![Pasted image 20231122201541.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122201541.png)
+![Pasted image 20231122201550.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122201550.png)
 
 ##### Lateralidad
 ---
@@ -159,7 +159,7 @@ encore une fois : **ES INDEPENDIENTE DE LOS CONTACTOS OCLUSALES**
 → También llamado movimiento de Bennett
 
 **En el movimiento lateral izquierdo de la mandibula :** 
-![Pasted image 20231122201919.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122201919.png)
+![Pasted image 20231122201919.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122201919.png)
 → Los **dientes posteriores izquierdos** se desplazaran **lateralmente** sobre los dientes opuestos. → <u>Lado de trabajo</u>
 → Los **dientes posteriores derecho**s se desplazaran e**n sentido medial** (hacia la linea media) sobre los dientes opuestos. → <u>Lado de no trabajo</u>
 
@@ -176,8 +176,8 @@ encore une fois : **ES INDEPENDIENTE DE LOS CONTACTOS OCLUSALES**
 
 → Podemos llevar la mandíbula hacia atrás. Lo que se conoce actualmente como **posición de relación céntrica** → **Posición de referencia en todos los tratamientos rehabilitadores.**
 
-![Pasted image 20231122203310.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122203310.png)
+![Pasted image 20231122203310.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122203310.png)
 
 # Resumen de los contactos oclusales
 
-![Pasted image 20231122203433.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122203433.png)
+![Pasted image 20231122203433.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122203433.png)
