@@ -24,7 +24,7 @@ El método **visual-tactil** sigue siendo el método mas preciso y reproducible 
 
 → La caries pueden ser no detectadas en RX y en exploración con sonda ! 
 
-![Pasted image 20231024234708.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231024234708.png)
+![Pasted image 20231024234708.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231024234708.png)
 
 ### Metodo actual del diagnóstico de caries :
 ---
@@ -48,7 +48,7 @@ El método **visual-tactil** sigue siendo el método mas preciso y reproducible 
 #### Utilización de tinta para detectar caries
 
 Herramienta de diagnóstico fiable.
-![Pasted image 20231024235823.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231024235823.png)
+![Pasted image 20231024235823.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231024235823.png)
 
 ![Pasted image 20231024235833.png|350](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231024235833.png)![Pasted image 20231024235836.png|350](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231024235836.png)
 
@@ -72,9 +72,9 @@ Voir [[Instrumentos/Diagnodent\|Diagnodent]].
 **SECO, LIMPIO, AMPLIADO**
 
 
-![Pasted image 20231025001112.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025001112.png)
-![Pasted image 20231025001412.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025001412.png)
-![Pasted image 20231025001419.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025001419.png)
+![Pasted image 20231025001112.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025001112.png)
+![Pasted image 20231025001412.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025001412.png)
+![Pasted image 20231025001419.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025001419.png)
 
 ### Caso : 
 ---
@@ -98,13 +98,13 @@ Voir [[Instrumentos/Diagnodent\|Diagnodent]].
 > Se requiere aproximadamente un 50% de desmineralización para la detección radiografica de una lesión
 > → La profundidad real de penetración de una lesió de caries es mas profunda clinicamente que radiograficamente
 
-![Pasted image 20231025002137.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025002137.png)
+![Pasted image 20231025002137.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025002137.png)
 
-![Pasted image 20231025002144.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025002144.png)
+![Pasted image 20231025002144.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025002144.png)
 
-![Pasted image 20231025002233.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025002233.png)
+![Pasted image 20231025002233.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025002233.png)
 
-![Pasted image 20231025002243.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025002243.png)
+![Pasted image 20231025002243.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025002243.png)
 
 
 ## Caries radicular
@@ -120,14 +120,14 @@ Voir [[Instrumentos/Diagnodent\|Diagnodent]].
 
 → **Las herramientas utilizadas para el diagnóstico se basan en la localización del margen**
 
-![Pasted image 20231025002528.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025002528.png)
+![Pasted image 20231025002528.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025002528.png)
 
-![Pasted image 20231025002536.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025002536.png)
+![Pasted image 20231025002536.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025002536.png)
 
 # Errores comunes en el diagnóstico de la caries secundaria
 
 → **Una línea radiolúcida uniforme alrededor de una restauración de composite - puede deberse a la presencia de una capa gruesa de resina adhesiva.**
 
-![Pasted image 20231025002646.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025002646.png)
+![Pasted image 20231025002646.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025002646.png)
 
 
