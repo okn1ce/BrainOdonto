@@ -91,11 +91,11 @@ Hay 3 fases durante el proceso quirurgico :
 	1. Diagnostica
 	2. Experimental
 
-![Pasted image 20231117005010.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117005010.png)
-![Pasted image 20231117005015.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117005015.png)
+![Pasted image 20231117005010.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117005010.png)
+![Pasted image 20231117005015.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117005015.png)
 
-![Pasted image 20231117005022.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117005022.png)
-![Pasted image 20231117005028.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117005028.png)
+![Pasted image 20231117005022.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117005022.png)
+![Pasted image 20231117005028.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117005028.png)
 
 ---
 
@@ -220,7 +220,7 @@ Monitorizar constantes vitales tras la administración de nitroglicerina ya que 
 
 Hacer profilaxis si hay historia previa de endocarditis infecciosa
 
-![Pasted image 20231117015213.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117015213.png)
+![Pasted image 20231117015213.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117015213.png)
 
 
 #### Medicacion anticoagulante
