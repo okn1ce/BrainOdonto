@@ -6,14 +6,14 @@
 ### Azatioprina
 ---
 
-![Pasted image 20231117021803.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117021803.png)
+![Pasted image 20231117021803.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117021803.png)
 
 🎯 Reducir la actividad del sistema inmunologico del cuerpo.
 🗓️ Dosis depende
 
 ### Mofetil micofenolato
 ---
-![Pasted image 20231117021753.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117021753.png)
+![Pasted image 20231117021753.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117021753.png)
 
 
 🎯 Reducir la actividad del sistema inmunologico del cuerpo.
@@ -24,7 +24,7 @@
 
 ### Tacrolimus topico
 ---
-![Pasted image 20231117032035.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117032035.png)
+![Pasted image 20231117032035.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117032035.png)
 
 🎯 Reducir la actividad del sistema inmunologico del cuerpo.
 🤰Evaluar riesgo/beneficio
