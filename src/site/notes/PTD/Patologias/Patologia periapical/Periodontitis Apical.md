@@ -7,7 +7,7 @@
 
 - Reaccion inflamatoria inicial, exudativa y levemente sintomatica de los tejidos conjunctivos periapicales
 
-![Pasted image 20231107102305.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231107102305.png)
+![Pasted image 20231107102305.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231107102305.png)
 
 -> Bacterias en conducto producen vasodilatación, exudado de líquido e infiltración leucocitaria.
 → Sur la RX : Gonflement / ligament radiolucide 
@@ -50,7 +50,7 @@
 Hiperactividad de componentes proliferativos
 Desarrollo de **tejido de granulación** y presencia de células inflamatorias crónicas.
 
-![Pasted image 20231107103059.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231107103059.png)
+![Pasted image 20231107103059.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231107103059.png)
 
 *Area radiolucido.*
 
@@ -79,7 +79,7 @@ Desarrollo de **tejido de granulación** y presencia de células inflamatorias c
 ## Radiología 
 
 el PAC es radiolúcido desade engrosamiento ligamento periodontal.
-![Pasted image 20231107103703.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231107103703.png)
+![Pasted image 20231107103703.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231107103703.png)
 
 ## Tratamiento
 
@@ -93,6 +93,8 @@ Ne pas confondre les régions radiolucides avec :
 - Agujero mentoniano
 - Agujero palatino anterior
 - Zona de neoformacion de raíz
+
+voir : [[PTD/Radio/RADIOLOGÍA 2D - CBCT 3D\|RADIOLOGÍA 2D - CBCT 3D]] 
 
 Ne pas confondre avec d'autres patologías :
 - Quistes (dentigero)
