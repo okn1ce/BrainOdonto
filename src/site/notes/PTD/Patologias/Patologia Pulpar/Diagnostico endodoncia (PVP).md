@@ -21,9 +21,9 @@ Se hace en diente seco y aislamiento relativo.
 **Falsos positivos** : Necrosis parciales, dientes multirradiculares
 **Falsos negativos** : Calcificaciones, traumatismos recientes, ápices abiertos, coronas protésicas y premedicación
 
-![Pasted image 20231102024245.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231102024245.png)
+![Pasted image 20231102024245.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231102024245.png)
 
-![Pasted image 20231102024314.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231102024314.png)
+![Pasted image 20231102024314.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231102024314.png)
 
 
 ## Electricas
@@ -52,7 +52,7 @@ Es solo en el ultimo recurso (por ej. en coronas metálicas que no permiten medi
 ## Sondaje periodontal
 
 Utilización de una sondaje para medir la profundidad de las encias.
-![Pasted image 20231102025148.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231102025148.png)
+![Pasted image 20231102025148.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231102025148.png)
 
 ## Test de mordida
 
