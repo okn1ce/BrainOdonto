@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cirugia-bucal-i/anestesia/anestesia-topica/"}
 ---
 
-![Pasted image 20231009163753.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231009163753.png)
+![Pasted image 20231009163753.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231009163753.png)
 
 → Es un subtipo de [[Cirugia Bucal I/Anestesia/Anestesia local y regional\|AL]]
 → Es superficial o de contacto, con un elevado efecto psicologico.
