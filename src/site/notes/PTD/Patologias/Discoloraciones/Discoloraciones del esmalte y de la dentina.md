@@ -9,7 +9,7 @@
 
 [[PTD/Patologias/Anomalias Estructurales/Odontodisplasia regional\|Odontodisplasia regional]]  → "dientes fantasmas". 
 → Esmalte y Dentina hipoplasicos e hipocalcificados
-![Pasted image 20231014144355.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014144355.png)![Pasted image 20231014144359.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014144359.png)
+![Pasted image 20231014144355.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014144355.png)![Pasted image 20231014144359.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014144359.png)
 
 #### Tincion por tetraciclinas
 
@@ -31,14 +31,14 @@ Grado 2 : No bandas, mas oscuro y mayor tamano que 1
 Grado 3 : Bandas gris oscuro, azul y zona cervical
 Grado 4 : Bandas mas oscuras, todo el diente
 
-![Pasted image 20231014144807.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014144807.png)![Pasted image 20231014144811.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014144811.png)![Pasted image 20231014144814.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014144814.png)![Pasted image 20231014144819.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014144819.png)
+![Pasted image 20231014144807.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014144807.png)![Pasted image 20231014144811.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014144811.png)![Pasted image 20231014144814.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014144814.png)![Pasted image 20231014144819.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014144819.png)
 
 #### Tincion por enf. Metabolicas 
 
 → Porfirinas
 → Fosfato calcico
 → Eritrodoncia
-![Pasted image 20231014145324.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014145324.png)
+![Pasted image 20231014145324.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014145324.png)
 
 
 ### Por afectacion del diente erupcianado
@@ -46,7 +46,7 @@ Grado 4 : Bandas mas oscuras, todo el diente
 #### Saturnismo
 
 → intoxicación por plomo que produce dientes y encías grises.
-![Pasted image 20231014145406.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014145406.png)
+![Pasted image 20231014145406.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014145406.png)
 
 #### Caries de esmalte y dentina
 
@@ -54,11 +54,11 @@ Grado 4 : Bandas mas oscuras, todo el diente
 → Lesiones interproximales : Areas grisaceas en el borde marginal de la superficie afectada
 → Lesiones recurrentes : area gris adyacente al margen de una restauracion defectuosa
 
-![Pasted image 20231014145523.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014145523.png)![Pasted image 20231014145526.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014145526.png)
+![Pasted image 20231014145523.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014145523.png)![Pasted image 20231014145526.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014145526.png)
 
 #### Tabaco
 
-![Pasted image 20231014145604.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014145604.png)![Pasted image 20231014145607.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014145607.png)
+![Pasted image 20231014145604.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014145604.png)![Pasted image 20231014145607.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014145607.png)
 
 
 #### Por envejecimiento dental
@@ -67,5 +67,5 @@ Grado 4 : Bandas mas oscuras, todo el diente
 → Desgaste bordes incisales
 → Dentina esclerotica
 
-![Pasted image 20231014145746.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014145746.png)![Pasted image 20231014145806.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014145806.png)
+![Pasted image 20231014145746.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014145746.png)![Pasted image 20231014145806.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014145806.png)
 
