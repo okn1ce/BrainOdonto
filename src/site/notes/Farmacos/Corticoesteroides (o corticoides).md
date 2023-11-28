@@ -6,7 +6,7 @@
 ### Prednisona
 ---
 
-![Pasted image 20231117025423.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117025423.png)
+![Pasted image 20231117025423.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117025423.png)
 
 🎯 Reducir la hinchazón y el enrojecimiento, y al cambiar la manera en la que funciona el sistema inmunitario.
 🤰Evaluar riesgo/beneficio
