@@ -14,7 +14,7 @@
 - **Necrosis aséptica o por coagulación** 
 	- Consecuencia de la **isquemia**. Cese de aporte vascular total = Ausencia de bacterias
 
-![Pasted image 20231104160831.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231104160831.png)
+![Pasted image 20231104160831.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231104160831.png)
 
 ### Diagnostico 
 
