@@ -10,7 +10,7 @@ Induce **una necrosis de la mucosa** por efecto **cauterizante**
 
 Diagnostico por las caractéristicas clinicas y el antecedente de la sustancia quimica
 
-![Pasted image 20231017161949.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017161949.png)
+![Pasted image 20231017161949.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017161949.png)
 Necrosis por aspirina
 
 
@@ -24,5 +24,5 @@ Aparece 8-12 horas de la inyeccion anestesico local.
 
 **Tratamiento** : Curacion espontanea a los 15 dias
 
-![Pasted image 20231017162157.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017162157.png)
+![Pasted image 20231017162157.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017162157.png)
 
