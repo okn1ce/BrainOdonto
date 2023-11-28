@@ -3,7 +3,7 @@
 ---
 
 
-![Pasted image 20231009213424.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231009213424.png)
+![Pasted image 20231009213424.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231009213424.png)
 
 → Conducto radicular muy estrecho
 → Camara enorme y redonda 
