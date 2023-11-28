@@ -6,4 +6,4 @@
 - Dolor 
 - Vesículas en el pabellón auditivo
 
-![Pasted image 20231021221010.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231021221010.png)
+![Pasted image 20231021221010.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231021221010.png)
