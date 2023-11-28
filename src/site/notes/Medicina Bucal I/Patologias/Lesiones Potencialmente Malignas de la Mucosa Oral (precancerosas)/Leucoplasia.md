@@ -66,11 +66,11 @@ Es una **lesion predominantemente blanca o roja**, no bien **delimitadas** y con
 - Lesiones blancas exofiticas 
 → **Blandas** al tacto y **no infiltradas** 
 
-![Pasted image 20231114225655.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231114225655.png)
+![Pasted image 20231114225655.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231114225655.png)
 
-![Pasted image 20231114225702.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231114225702.png)
+![Pasted image 20231114225702.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231114225702.png)
 
-![Pasted image 20231114225708.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231114225708.png)
+![Pasted image 20231114225708.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231114225708.png)
 
 
 ##### Diagnóstico
@@ -95,7 +95,7 @@ Dos posibilidades :
 1. [[Medicina Bucal I/Patologias/Infeccion por Candida/Candidiasis\|Candidiasis]]
 2. [[Medicina Bucal I/Patologias/Autoinmunes/Lupus eritematoso\|Lupus eritematoso]]
 3. Lesiones traumaticas ([[Medicina Bucal I/Patologias/Lesiones/Lesiones traumaticas/Mucosa mordisqueada\|Mucosa mordisqueada]] por ej.)
-4. Lesiones blancas hereditarias (Nevus blanco esponjoso)
+4. Lesiones blancas hereditarias ([[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epitaliales/Nevus\|Nevus]] blanco esponjoso)
 5. Otras (Leucoplasia vellosa, quemaduras quimicas, lesiones papilomatosas)
 
 ##### Evolución
@@ -104,8 +104,8 @@ Dos posibilidades :
 → Es una lesión **potencialmente maligna** (PRECANCEROSA)
 → Desarrollan posteriormente un cancer segun estudios entre 15-60%
 
-![Pasted image 20231114230505.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231114230505.png)
-![Pasted image 20231114230523.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231114230523.png)
+![Pasted image 20231114230505.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231114230505.png)
+![Pasted image 20231114230523.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231114230523.png)
 
 
 ##### Tratamiento
