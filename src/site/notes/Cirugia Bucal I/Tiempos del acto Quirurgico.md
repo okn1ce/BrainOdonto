@@ -28,45 +28,45 @@
 ### Tipos de incisiones
 
 #### Partsch 
-![Pasted image 20231106161823.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106161823.png)
-![Pasted image 20231106161900.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106161900.png)
-![Pasted image 20231106162020.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162020.png)
+![Pasted image 20231106161823.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106161823.png)
+![Pasted image 20231106161900.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106161900.png)
+![Pasted image 20231106162020.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162020.png)
 
 #### Neumann
-![Pasted image 20231106162044.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162044.png)
-![Pasted image 20231106162048.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162048.png)
-![Pasted image 20231106162228.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162228.png)
+![Pasted image 20231106162044.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162044.png)
+![Pasted image 20231106162048.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162048.png)
+![Pasted image 20231106162228.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162228.png)
 
 #### Neumann Parcial
-![Pasted image 20231106162249.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162249.png)
-![Pasted image 20231106162417.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162417.png)
+![Pasted image 20231106162249.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162249.png)
+![Pasted image 20231106162417.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162417.png)
 
 #### Neumann modificada
-![Pasted image 20231106162434.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162434.png)
+![Pasted image 20231106162434.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162434.png)
 
 #### Festoneada
-![Pasted image 20231106162507.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162507.png)
-![Pasted image 20231106162521.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162521.png)
+![Pasted image 20231106162507.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162507.png)
+![Pasted image 20231106162521.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162521.png)
 
 
 #### Doble Y
-![Pasted image 20231106162532.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162532.png)
+![Pasted image 20231106162532.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162532.png)
 
 
 #### Bayoneta
-![Pasted image 20231106162547.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162547.png)
-![Pasted image 20231106162603.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162603.png)
+![Pasted image 20231106162547.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162547.png)
+![Pasted image 20231106162603.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162603.png)
 
 
 #### Oval
-![Pasted image 20231106162624.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162624.png)
+![Pasted image 20231106162624.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162624.png)
 
 #### Z-Plastia
-![Pasted image 20231106162636.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162636.png)
+![Pasted image 20231106162636.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162636.png)
 
 #### Espesor parcial
-![Pasted image 20231106162652.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162652.png)
-![Pasted image 20231106162708.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162708.png)
+![Pasted image 20231106162652.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162652.png)
+![Pasted image 20231106162708.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162708.png)
 
 
 
@@ -80,7 +80,7 @@
 Utilización de Despegadores y Pinzas.
 **Objetivo :** Accede al hueso dejando las estructuras anatómicas supraperiósticamente
 
-![Pasted image 20231106162923.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162923.png)
+![Pasted image 20231106162923.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162923.png)
 
 
 # Separación
@@ -88,7 +88,7 @@ Utilización de Despegadores y Pinzas.
 Utilización de [[Instrumentos/Separadores/Separadores\|Separadores]] 
 **Objetivo :** Visualizacón de los planos subyacentes y protege los colgajos durante la intervención
 
-![Pasted image 20231106163112.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106163112.png)
+![Pasted image 20231106163112.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106163112.png)
 
 # Ostectomia
 
@@ -96,7 +96,7 @@ Utilización de [[Instrumentos/Separadores/Separadores\|Separadores]]
 Utilización de instrumental rotatorio
 **Objetivo :** Eliminación de tejido óseo con el fin de acceder al área a tratar
 
-![Pasted image 20231106163259.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106163259.png)
+![Pasted image 20231106163259.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106163259.png)
 
 # Resolucion
 
@@ -105,7 +105,7 @@ Es la "fase operativa" propiamente dicha.
 → Eliminar tejido blando con vascularización comprometida
 → Irrigar campo quirurgico con suero fisiologico para eliminación de virutas oseas, restos..
 
-![Pasted image 20231106163510.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106163510.png)
+![Pasted image 20231106163510.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106163510.png)
 
 # Sutura
 
