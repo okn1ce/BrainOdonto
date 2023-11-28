@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cirugia-bucal-i/anestesia/anestesia-infiltrativa/"}
 ---
 
-![Pasted image 20231009164055.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231009164055.png)
+![Pasted image 20231009164055.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231009164055.png)
 
 → Terminal o periferica
 
