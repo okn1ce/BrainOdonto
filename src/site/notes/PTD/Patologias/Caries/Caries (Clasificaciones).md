@@ -53,14 +53,14 @@
 ## Caries de fossa y fisuras
 
 → La forma de las fosas y fisuras contribuye a su alta susceptibilidad a la caries
-![Pasted image 20231020093554.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020093554.png)
+![Pasted image 20231020093554.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020093554.png)
 
 ## Caries de superficies lisas
 
 → En las superficie lisa del esmalte
 1. Las zonas de contacto de la superficie proximal
 2. Las zonas gingivales hasta la altura del contorno de la superficie bucal y lingual/palatina
-![Pasted image 20231020093723.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020093723.png)
+![Pasted image 20231020093723.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020093723.png)
 
 ## Caries de raiz
 
@@ -74,17 +74,17 @@
 { #80e383}
 
 
-![Incipient.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Incipient.png)
+![Incipient.png](/img/user/Cirugia%20Bucal%20I/Medias/Incipient.png)
 ![Pasted image 20231020093913.png|250x250](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020093913.png)
 ## Caries moderada
-![Moderate.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Moderate.png)
+![Moderate.png](/img/user/Cirugia%20Bucal%20I/Medias/Moderate.png)
 ## Caries avanzada
-![Advanced.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Advanced.png)
+![Advanced.png](/img/user/Cirugia%20Bucal%20I/Medias/Advanced.png)
 ![Pasted image 20231020093952.png|250x250](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020093952.png)
 
 ## Caries severa
 
-![Severe.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Severe.png)
+![Severe.png](/img/user/Cirugia%20Bucal%20I/Medias/Severe.png)
 ![Pasted image 20231020094107.png|250](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020094107.png)
 # Clasificacion segun el numero de superficies dentales afectadas
 
@@ -130,11 +130,11 @@
 
 # Clasificacion de Mount y Hume
 
-![MountyHume.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/MountyHume.png)
+![MountyHume.png](/img/user/Cirugia%20Bucal%20I/Medias/MountyHume.png)
 
 # Clasificacion ICDAS
 
-![ICDAS.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/ICDAS.png)
+![ICDAS.png](/img/user/Cirugia%20Bucal%20I/Medias/ICDAS.png)
 
 
 
