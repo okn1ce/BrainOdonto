@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/odontologia-3/","tags":["gardenEntry"]}
 ---
 
-![Pasted image 20231112220219.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231112220219.png)
+![Pasted image 20231112220219.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231112220219.png)
 # Wik'is'pédia ?
 
 Cette base de données contient toutes mes fiches (du moment), faisant office de "wikipédia" de toutes les informations des cours.
@@ -31,10 +31,13 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 
 # Bulle du contenu
 
-![Pasted image 20231122030434.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122030434.png)
-*22/11/2023*
+![Pasted image 20231128220220.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231128220220.png)
+*28/11/2023*
 # Derniers ajouts : 
 
+## 28/11/2023
+- Ajout de [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores Benignos\|Tumores Benignos]]
+	- → [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epitaliales/Nevus\|Nevus]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epitaliales/Papiloma\|Papiloma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epitaliales/Queratoacantoma\|Queratoacantoma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Fibroma\|Fibroma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/GPCG\|GPCG]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Granuloma piógeno\|Granuloma piógeno]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Hemangioma\|Hemangioma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Linfangioma\|Linfangioma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Lipoma\|Lipoma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Neurofibroma\|Neurofibroma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Schwannoma\|Schwannoma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Tumor de células granulares\|Tumor de células granulares]]
 ## 26/11/2023
 - Ajout de [[PTD/Radio/INTERPRETACION RADIOLOGÍA\|INTERPRETACION RADIOLOGÍA]]
 ## 25/11/2023
@@ -86,7 +89,7 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 
 ## 06/11/2023
 - Ajout du bloc "Instrumentos" pour Chirurgie 
-	![Pasted image 20231106160030.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106160030.png)
+	![Pasted image 20231106160030.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106160030.png)
 
 ## 04/11/2023
 - Ajout du bloc "Patologia Pulpar" : [[PTD/Patologias/Patologia Pulpar/Necrosis pulpar\|Necrosis pulpar]], [[PTD/Patologias/Patologia Pulpar/Pulpitis Reversible\|Pulpitis Reversible]], [[PTD/Patologias/Patologia Pulpar/Pulpitis Irreverisble\|Pulpitis Irreverisble]],  [[PTD/Patologias/Patologia Pulpar/Patologia Pulpar\|Patologia Pulpar]], [[PTD/Patologias/Patologia Pulpar/Atrofia Pulpar\|Atrofia Pulpar]] et [[PTD/Patologias/Patologia Pulpar/Calcificaciones pulpares\|Calcificaciones pulpares]]
@@ -101,16 +104,16 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 - Ajout d'images sur [[Medicina Bucal I/Patologias/Infeccion bacterianas/Sifilis oral\|Sifilis oral]], [[Medicina Bucal I/Patologias/Infeccion bacterianas/Pericoronaritis\|Pericoronaritis]], [[Medicina Bucal I/Patologias/Infeccion bacterianas/Tuberculosis (TBC)\|Tuberculosis (TBC)]], [[Medicina Bucal I/Patologias/Infeccion bacterianas/Gingivitis por placa\|Gingivitis por placa]] y [[Medicina Bucal I/Patologias/Infeccion bacterianas/Gingivits necrotizante aguda\|Gingivits necrotizante aguda]]
 
 ## 25/10/2023
-![Pasted image 20231025215743.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025215743.png)
+![Pasted image 20231025215743.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025215743.png)
 
 ## 25/10/2023
-![Pasted image 20231025003036.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025003036.png)
-![Pasted image 20231025003518.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025003518.png)
+![Pasted image 20231025003036.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025003036.png)
+![Pasted image 20231025003518.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025003518.png)
 
 ## 22/10/2023
 
 Mise à jour de certaines informations sur :
-![Pasted image 20231022000048.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231022000048.png)
+![Pasted image 20231022000048.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231022000048.png)
 
 ## 22/10/2023
-![Pasted image 20231021223853.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231021223853.png)
+![Pasted image 20231021223853.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231021223853.png)
