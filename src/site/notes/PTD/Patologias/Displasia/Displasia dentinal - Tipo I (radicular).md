@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ptd/patologias/displasia/displasia-dentinal-tipo-i-radicular/"}
 ---
 
-![Pasted image 20231009230819.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231009230819.png)
+![Pasted image 20231009230819.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231009230819.png)
 
 → Corona marcada "regordetes" y raiz corta
 → Calcificacion de cementos radiculares
