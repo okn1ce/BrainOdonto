@@ -26,7 +26,7 @@
 ## Aspecto microscópico
 ---
 ![Pasted image 20231020141124.png|350x350](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020141124.png)
-![Pasted image 20231020141625.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020141625.png)
+![Pasted image 20231020141625.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020141625.png)
 
 ### Zona superficial 
 - Antes de la cavitacion
@@ -69,8 +69,8 @@
 > - color amarillento-marrón
 > - lesiones crónicas → superficie dura y pulida, color marrón oscuro
 > 
->  ![Pasted image 20231020142222.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020142222.png)
->  ![Pasted image 20231020142300.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020142300.png)
+>  ![Pasted image 20231020142222.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020142222.png)
+>  ![Pasted image 20231020142300.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020142300.png)
 
 ## Aspecto microscopico
 ---
@@ -97,7 +97,7 @@
 
 ### Propiedades fisicas de la dentina 
 
-![Pasted image 20231020142839.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020142839.png)
+![Pasted image 20231020142839.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020142839.png)
 
 ### Reaccion pulpar (reaccion defensiva del complejo D-P)
 
