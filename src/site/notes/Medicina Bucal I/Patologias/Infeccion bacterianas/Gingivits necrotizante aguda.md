@@ -31,4 +31,4 @@ Descartar VIH, leucemia o agranulocitosis
 - **Analgésicos** : [[Farmacos/Antiinflamatorio#Ibuprofeno\|Ibuprofeno]] 400mg cada 8 horas o Paracetamol 1gr cada 8 horas
 - **Antibioticos** : [[Farmacos/Antibioticos#Metronidazol\|Metronidazol]] 250-500mg o Amox/Clav 500-875/125mg
 
-![Pasted image 20231028145958.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028145958.png)![Pasted image 20231028150002.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150002.png)
+![Pasted image 20231028145958.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028145958.png)![Pasted image 20231028150002.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150002.png)
