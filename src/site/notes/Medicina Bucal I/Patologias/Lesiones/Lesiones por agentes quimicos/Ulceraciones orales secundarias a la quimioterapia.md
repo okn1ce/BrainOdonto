@@ -13,4 +13,4 @@ Por mecanismo directo o inderecto por alteraciones a nivel de la médula.
 
 **Tratamiento** : Aliviar molestias enjuages combinados con clorhexidina 0.12% y lidocaina al 2%
 
-![Pasted image 20231017162421.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017162421.png)
+![Pasted image 20231017162421.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017162421.png)
