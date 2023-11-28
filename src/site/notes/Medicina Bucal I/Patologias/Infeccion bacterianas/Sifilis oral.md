@@ -19,7 +19,7 @@
 → Placas mucosas como **maculopapulas blanquecinas** multiples con tendencia a agruparse con aspecto **serpetiforme**, muy contagiosas
 → Otras formas de presentación: [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]] y **depapilaciones**
 
-![Pasted image 20231028150108.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150108.png)
+![Pasted image 20231028150108.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150108.png)
 
 
 ## Sifilis Terciaria
@@ -27,7 +27,7 @@
 - **Goma sifilitico** : Granuloma con necrosis central e infiltrado inflamatorio en la periferia
 - **Glositis instersticial** : Atrofia del dorso lingual consecuencia de la enderteritis obliterante caracteristica de la sifilis. **Lesion precancerosa**
 
-![Pasted image 20231028150207.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150207.png)
+![Pasted image 20231028150207.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150207.png)
 
 # Diagnostico
 
@@ -59,7 +59,7 @@
 - Penicilina G benzatina 2,4m cada 7 dias durante 3 semanas
 
 
-![Pasted image 20231028150046.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150046.png)
+![Pasted image 20231028150046.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150046.png)
 *Sifilis primaria*
 
-![Pasted image 20231028150059.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150059.png)
+![Pasted image 20231028150059.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150059.png)
