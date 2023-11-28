@@ -56,13 +56,13 @@ Aplicacion topica de clorhexidina para desinfectar la zona de anestesia → prev
  
 ### 3. Anestesia [[Cirugia Bucal I/Anestesia/Anestesia topica\|topica]]
 
-![Pasted image 20231009171053.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231009171053.png) ![Pasted image 20231009171058.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231009171058.png)
+![Pasted image 20231009171053.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231009171053.png) ![Pasted image 20231009171058.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231009171058.png)
 
 Secar la mucosa y aplicar, dejar unos 2-4' para efecto.
 
 ### 4. Penetración barrera mucosa
 
-![Pasted image 20231009171223.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231009171223.png) 
+![Pasted image 20231009171223.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231009171223.png) 
 
 → Entrada de la aguja con el bisel dirigado hacia la zona a anestesiar. !!!!
 
