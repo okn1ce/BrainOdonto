@@ -3,7 +3,7 @@
 ---
 
 
-![Pasted image 20231025005947.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025005947.png)
+![Pasted image 20231025005947.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025005947.png)
 
 # Diagnostico
 
@@ -15,10 +15,10 @@
 → En paises sin un sistema sanitario muy desarrollado : **diagnostico diferencial** + **identificar la caries como causa de los sintomas**
 → En paisses con sistema sanit. desarrollado : La caries se diagnostica principalmente **en las visitas periódicas** a los servicios de salud dental, objetivo principal = detección precoz de la enfermedad
 
-![Pasted image 20231025033929.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025033929.png)
+![Pasted image 20231025033929.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025033929.png)
 
 ## Errores en el diagnostico is sus consecuencias
-![Pasted image 20231025033952.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025033952.png)
+![Pasted image 20231025033952.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025033952.png)
 
 Hay que evitar tener : 
 
@@ -29,7 +29,7 @@ Hay que evitar tener :
 2. **Un juez que principalmente trata de no condenar a los inocentes** (baja sensibilidad, alta especifidad)
 	- probablemente tenderá a exonerar a más culpables
 
-![Pasted image 20231025034229.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025034229.png)
+![Pasted image 20231025034229.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025034229.png)
 
 <u>Detección</u> : 
 	Detección de lesiones cavitadas y presencia de caries 
@@ -37,13 +37,13 @@ Hay que evitar tener :
 <u>Metodologia </u> : 
 	**Metodo del nucleo** : Examen visual-tactil + evaluar la superficie de la lesion (estimar indirectamente la profundidad de la caries)
 	**Metodo de apoyo** : Radiografias, transiluminacion, fluorescencia..
-	![Pasted image 20231025034541.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025034541.png)
+	![Pasted image 20231025034541.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025034541.png)
 
 <u>Diagnostic</u> :
 	Se ponderan las diferentes informaciones recogidas (hallazgos), interpretado, evaluado y luego ensamblado en una imagen coherente para un diagnóstico.
 
 <u>Eleccion de la terapia</u> :
-	![Pasted image 20231025034626.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025034626.png)
+	![Pasted image 20231025034626.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025034626.png)
 	La toma de decisiones depende de varios factores (actvidad de la lesion, extension, localizacion..)
 
 # Tratamiento 
@@ -79,4 +79,4 @@ Son terapias que influyen en el esmalte y la dentina.
 
  
 
-![Pasted image 20231025035622.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025035622.png)
+![Pasted image 20231025035622.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025035622.png)
