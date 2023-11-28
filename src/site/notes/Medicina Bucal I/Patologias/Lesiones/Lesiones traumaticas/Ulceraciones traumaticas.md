@@ -3,7 +3,7 @@
 ---
 
 
-![Pasted image 20231017160508.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017160508.png)![Pasted image 20231017160515.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017160515.png)
+![Pasted image 20231017160508.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017160508.png)![Pasted image 20231017160515.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017160515.png)
 
 Lesion mas frecuente de la mucosa oral.
 
