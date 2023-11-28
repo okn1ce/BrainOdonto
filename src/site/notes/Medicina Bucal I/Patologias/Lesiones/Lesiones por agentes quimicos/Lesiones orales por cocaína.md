@@ -9,5 +9,5 @@ Inhalacion de cocaina → efectos locales de vasocontriccion e irritacion de la 
 
 3 semanas de uso prolongado y frecuente de la droga.
 
-![Pasted image 20231017163826.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017163826.png)
+![Pasted image 20231017163826.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017163826.png)
 Perforacion palatina por necrosis osteocartilaginosa
