@@ -8,5 +8,5 @@
 → C. glabrata, C. tropicalis, C. dubliniensis (VIH)
 → Indicador de enfermedad sistémica subyacente
 
-![Pasted image 20231018220611.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018220611.png)
+![Pasted image 20231018220611.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018220611.png)
 
