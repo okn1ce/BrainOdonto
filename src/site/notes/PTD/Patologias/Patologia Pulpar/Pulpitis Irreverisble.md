@@ -13,7 +13,7 @@
 
 ### Pulpitis irreversible aguda (o sintomatica, dolorosa)
 
-![Pasted image 20231104154622.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231104154622.png)
+![Pasted image 20231104154622.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231104154622.png)
 
 - Dolor 
 	- Aparece de forma espontanea
@@ -37,7 +37,7 @@ Histologicamente → Aparición de linfocitos, células plasmaticas, microabsces
 
 Si hay una grande lesion cariosa = Hiperplasia de tejido granulomatoso = polipo pulpar
 
-![Pasted image 20231104155157.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231104155157.png)
+![Pasted image 20231104155157.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231104155157.png)
 
 
 ### Diagnostico
@@ -55,5 +55,5 @@ Si hay una grande lesion cariosa = Hiperplasia de tejido granulomatoso = polipo 
 
 #### Sintomatologia variada
 
-![Pasted image 20231104155833.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231104155833.png)
+![Pasted image 20231104155833.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231104155833.png)
 
