@@ -52,7 +52,7 @@ Hacer un raspado y una analisis para hacer el diagnostico final :
 - **Inmunofluorescencia indirecta** : Anticuerpos circulantes antisuperficie de células epiteliales IgG4, IgG1 y IgG3
 - **Estudios de inmunoprecipitacion** : Identifican antigeno diana reconocido por el autoanticuerpo (Buscamos : PV = la DSG3 y PF = DSG1) 
 
-![Medicina Bucal I/Medias/Pasted image 20231031124702.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231031124702.png)*Células de Tzank*
+![Medicina Bucal I/Medias/Pasted image 20231031124702.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231031124702.png)*Células de Tzank*
 
 # Tratamiento
 
