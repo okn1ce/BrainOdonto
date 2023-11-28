@@ -26,7 +26,7 @@
 - Cuando pus alcanza periostio, mucho dolor
 - Si atraviesa, disminuye dolor = **absceso apical cronico**
 
-![Pasted image 20231107104417.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231107104417.png)
+![Pasted image 20231107104417.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231107104417.png)
 
 ### Tratamiento
 
@@ -44,7 +44,7 @@
 Puede **fistulizar a mucosa o a piel**.
 - Si fistuliza a periodonto -> bolsa periodontal
 
-![Pasted image 20231107104721.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231107104721.png)
+![Pasted image 20231107104721.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231107104721.png)
 
 ### Clinica y diagnostico
 
@@ -53,7 +53,7 @@ Puede **fistulizar a mucosa o a piel**.
 - Si se obstruye el trayecto fistuloso -> **absceso fénix**
 - [[PTD/Patologias/Patologia Pulpar/Diagnostico endodoncia (PVP)\|Diagnostico endodoncia (PVP)]] negativas
 - Siempre RX con gutapercha en la fistula = Fistulografía (nos indica de donde viene la infección). SOLO CUANDO HAY FISTULA
-	- ![Pasted image 20231107104940.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231107104940.png)
+	- ![Pasted image 20231107104940.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231107104940.png)
 	
 
 
