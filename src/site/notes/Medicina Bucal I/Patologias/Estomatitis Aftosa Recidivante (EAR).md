@@ -20,7 +20,7 @@
 # Etiologia
 
 **Multifactorial** 
-![Pasted image 20231028145109.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028145109.png)
+![Pasted image 20231028145109.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028145109.png)
 
 ## Factores inmunologicos
 
@@ -77,9 +77,9 @@ Evoluciona sin secuelas en 10-14 dias
 	- [[Farmacos/Corticoesteroides (o corticoides) tópicos#Triamcinolona\|Acetonido de Triamcinolona]] 0.1% o gel 3v/dia
 - Clorhexidina + lidocaina 2%
 
-![Pasted image 20231028150242.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150242.png)
-![Pasted image 20231028150248.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150248.png)
-![Pasted image 20231028150254.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150254.png)
+![Pasted image 20231028150242.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150242.png)
+![Pasted image 20231028150248.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150248.png)
+![Pasted image 20231028150254.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150254.png)
 
 
 ### Aftas mayores
@@ -92,8 +92,8 @@ Localizadas en mucosa de revestimiento pero puede afectar tambien paladar blando
 DD con COCE
 
 
-![Pasted image 20231028150449.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150449.png)
-![Pasted image 20231028150455.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150455.png)
+![Pasted image 20231028150449.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150449.png)
+![Pasted image 20231028150455.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150455.png)
 
 <u>Dos formas clinicas</u> : 
 
@@ -110,7 +110,7 @@ Localizadas en mucosa de revestimiento, pero son las que con mas frecuencia afec
 
 DD con [[Medicina Bucal I/Patologias/Infecciones víricas/Virus del Herpes Simple#Herpes Intraoral\|Herpes simple recidivante intra oral]]
 
-![Pasted image 20231028152338.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028152338.png)
+![Pasted image 20231028152338.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028152338.png)
 
 ### Résumé 
 
