@@ -27,7 +27,7 @@ Hay 2 tipos de fibras nerviosas del diente
 - **Fibras A 𝜹. Mielínicas** → sensaciones asociadas con el movimiento brusco de fluidos internos de los tubulos dentinarios
 - **Fibras amielinica C** → Transmiten los signos de inflamacion al sistema nervioso central
 
-![Pasted image 20231103163349.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231103163349.png)
+![Pasted image 20231103163349.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231103163349.png)
 
 ## Por qué hay hipersensibilidad dentinaria ?
 
@@ -46,7 +46,7 @@ Hay tambien una estimulacion de las fibras C. Se hace cuando hay procesos inflam
 
 **C amielínicas** más resistentes a la presión. En fases avanzadas de inflamación son las últimas en degenerar.
 
-![Pasted image 20231103163912.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231103163912.png)
+![Pasted image 20231103163912.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231103163912.png)
 
 # Causas de las lesiones pulpares
 
@@ -105,13 +105,13 @@ Hay tambien una estimulacion de las fibras C. Se hace cuando hay procesos inflam
 
 **No hay dentina expuesta** → La presion intrapulpar disminuye el umbral de estimulacion de las fibras a-𝜹 = respuesta dolorosa
 
-![Pasted image 20231104011115.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231104011115.png)
+![Pasted image 20231104011115.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231104011115.png)
 
 → Tt° etiologico
 
 ## Diagnostico
 
-![Pasted image 20231104011142.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231104011142.png)
+![Pasted image 20231104011142.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231104011142.png)
 # Pulpitis 
 
 [[PTD/Patologias/Patologia Pulpar/Pulpitis Reversible\|Pulpitis Reversible]]
