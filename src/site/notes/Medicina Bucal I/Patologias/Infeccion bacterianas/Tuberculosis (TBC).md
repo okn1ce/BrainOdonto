@@ -18,7 +18,7 @@
 - Odinofagia, fiebre y pérdida de peso
 
 ![Pasted image 20231025210221.png|450](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025210221.png)
-![Pasted image 20231028150033.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150033.png)
+![Pasted image 20231028150033.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150033.png)
 
 
 ## TBC Intraoral Primaria 
@@ -34,8 +34,8 @@
 - [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]] satélites, móviles y fluctuantes con calcificaciones en el interior y tendencia a abscesificarse y fistulizar
 - Fiebre, pérdida de peso, tos y fatiga
 
-![Pasted image 20231028150012.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150012.png)
-![Pasted image 20231028150020.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150020.png)
+![Pasted image 20231028150012.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150012.png)
+![Pasted image 20231028150020.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150020.png)
 
 
 # Diagnostico
