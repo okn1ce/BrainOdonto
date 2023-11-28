@@ -13,7 +13,7 @@ Son **lesiones rojas**.
 - Eritroplasia moteada o granular
 → Blanda a la palpación pero se ha perdido la elasticidad de la mucosa
 
-![Pasted image 20231114232050.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231114232050.png)
+![Pasted image 20231114232050.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231114232050.png)
 
 
 # Diagnóstico
