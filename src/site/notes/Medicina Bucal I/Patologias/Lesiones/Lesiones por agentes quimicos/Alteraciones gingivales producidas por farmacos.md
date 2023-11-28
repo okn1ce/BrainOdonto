@@ -14,6 +14,6 @@
 
 **Tratamiento** : Eliminacion de irritantes gingivales locales o Gingivectomias.
 
-![Pasted image 20231017163302.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017163302.png)
+![Pasted image 20231017163302.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017163302.png)
 Hiperplasia gingival por ciclosporina
 
