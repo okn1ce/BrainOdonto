@@ -12,5 +12,5 @@ Multiples, grandes y muy dolorasas
 
 **Tratamiento** : Soluciones con anestésicos locales, clorhexidina y [[Farmacos/Corticoesteroides (o corticoides) tópicos\|Corticoesteroides locales]].
 
-![Pasted image 20231017165528.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017165528.png)
+![Pasted image 20231017165528.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017165528.png)
 
