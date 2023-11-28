@@ -38,7 +38,7 @@
 → Uso prolongado de antibio
 → Evolucion de un muget
 
-![Pasted image 20231018222534.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018222534.png)
+![Pasted image 20231018222534.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018222534.png)
 
 
 ## Pseudomembranosa Cronica
@@ -54,8 +54,8 @@
 → Lesiones eritematosas y atroficas bien delimitadas en mucosa yugal, paladar, lengua (aspecto liso y rojo)
 → Asintomatica, ligero escozor y ardor
 
-![Pasted image 20231018223305.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018223305.png)
-![Pasted image 20231018223255.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018223255.png)
+![Pasted image 20231018223305.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018223305.png)
+![Pasted image 20231018223255.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018223255.png)
 
 ## Hiperplasica cronica
 
@@ -66,7 +66,7 @@
 → Pacientes fumadores, mala higiene bucal
 → DD con [[Medicina Bucal I/Patologias/Lesiones Potencialmente Malignas de la Mucosa Oral (precancerosas)/Leucoplasia\|Leucoplasia]] (Biopsia)
 
-![Pasted image 20231018223931.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018223931.png)
+![Pasted image 20231018223931.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018223931.png)
 
 
 ## Estomatitis protésica
@@ -75,7 +75,7 @@
 → Escasa sintomatologia, aumento sensibilidad ante el frio, calor, alimentos picantes y bebidas alcoholicas
 → Mala higiene oral
 
-![Pasted image 20231018224106.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018224106.png)
+![Pasted image 20231018224106.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018224106.png)
 
 ### Tipo 1 
 
@@ -99,8 +99,8 @@ Papilar hiperplasica, aspecto granular o nodular
 → Erosiones, grietas, costras, lesiones vegetantes bilaterales que persisten mucho tiempo
 → Escasa sintomatologia, escozor, ardor
 
-![Pasted image 20231018224415.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018224415.png)
-![Pasted image 20231018224419.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018224419.png)
+![Pasted image 20231018224415.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018224415.png)
+![Pasted image 20231018224419.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018224419.png)
 
 ## Glositis romboidal media
 
@@ -108,7 +108,7 @@ Papilar hiperplasica, aspecto granular o nodular
 → Localizada en la union de los dos tercios anteriores y el tercio posterior del dorso de la lengua
 → Si no se trata aumenta de tamano, hiperplasia nodular tipica de las condidasis hipertroficas cronicas
 
-![Pasted image 20231018224626.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018224626.png)
+![Pasted image 20231018224626.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231018224626.png)
 
 
 
