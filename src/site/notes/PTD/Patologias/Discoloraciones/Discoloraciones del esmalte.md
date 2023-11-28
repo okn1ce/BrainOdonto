@@ -16,10 +16,10 @@ Tipos de fluorosis :
 - Punteados blancos mas o menos grandes por toda la superficie
 - Mancha marron-morado (casos extremos)
 
-![Pasted image 20231013232430.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232430.png) ![Pasted image 20231013232434.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232434.png)
-![Pasted image 20231013232440.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232440.png)![Pasted image 20231013232443.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232443.png)
-![Pasted image 20231013232448.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232448.png) ![Pasted image 20231013232452.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232452.png)
-![Pasted image 20231013232506.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232506.png)![Pasted image 20231013232510.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232510.png)
+![Pasted image 20231013232430.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232430.png) ![Pasted image 20231013232434.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232434.png)
+![Pasted image 20231013232440.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232440.png)![Pasted image 20231013232443.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232443.png)
+![Pasted image 20231013232448.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232448.png) ![Pasted image 20231013232452.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232452.png)
+![Pasted image 20231013232506.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232506.png)![Pasted image 20231013232510.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232510.png)
 
 
 #### Amelogénesis imperfecta
@@ -32,7 +32,7 @@ Tipos de fluorosis :
 - Infecciones en dientes temporales
 - Alteraciones metabolicas, nutricionales
 
-![Pasted image 20231013232843.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232843.png)![Pasted image 20231013232847.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232847.png)![Pasted image 20231013232851.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232851.png)
+![Pasted image 20231013232843.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232843.png)![Pasted image 20231013232847.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232847.png)![Pasted image 20231013232851.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013232851.png)
 
 
 
@@ -46,7 +46,7 @@ Dos tipos :
 
 Voir [[PTD/Patologias/Caries/Caries (Histopatología)#Caries del esmalte\|Caries del esmalte (Histopatologia)]]
 
-![Pasted image 20231013233743.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013233743.png)![Pasted image 20231013233746.png|undefined](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013233746.png)
+![Pasted image 20231013233743.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013233743.png)![Pasted image 20231013233746.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231013233746.png)
 
 #### Impregnacion por metales
 
