@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ptd/patologias/caries/caries/"}
 ---
 
-![Pasted image 20231025003931.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025003931.png)
+![Pasted image 20231025003931.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025003931.png)
 # Index :
 ---
 1. [[PTD/Patologias/Caries/Caries (Histopatología)\|Caries (Histopatología)]]
