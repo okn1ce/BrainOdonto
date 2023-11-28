@@ -19,4 +19,4 @@ Lesiones orales que aparecen 2 o 3 dias tras la colacacion en la mucosa oral de 
 
 **Tratamiento** : Pruebas epicutaneas + eliminar el alergeno + [[Farmacos/Corticoesteroides (o corticoides) tópicos\|Corticoesteroides (o corticoides) tópicos]] y [[Farmacos/Corticoesteroides (o corticoides)\|sistémicos]]
 
-![Pasted image 20231017162924.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017162924.png)
+![Pasted image 20231017162924.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231017162924.png)
