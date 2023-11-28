@@ -9,5 +9,5 @@
 
 **Tt°** : Extremar higiene oral, lagrimas artificales, caramelos acidos, cremas lubricantes
 
-![Pasted image 20231020092820.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020092820.png)
+![Pasted image 20231020092820.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231020092820.png)
 
