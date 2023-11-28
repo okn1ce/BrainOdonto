@@ -7,10 +7,10 @@
 
 Cursa con la triada : [[Medicina Bucal I/Patologias/Estomatitis Aftosa Recidivante (EAR)\|Estomatitis Aftosa Recidivante (EAR)]], ulceraciones genitales y uveitis.
 
-![Pasted image 20231028152609.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028152609.png)
+![Pasted image 20231028152609.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028152609.png)
 
-![Pasted image 20231028152616.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028152616.png)
+![Pasted image 20231028152616.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028152616.png)
 
 ![Pasted image 20231028145510.png|250](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028145510.png)
 
-![Pasted image 20231028150232.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150232.png)
+![Pasted image 20231028150232.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150232.png)
