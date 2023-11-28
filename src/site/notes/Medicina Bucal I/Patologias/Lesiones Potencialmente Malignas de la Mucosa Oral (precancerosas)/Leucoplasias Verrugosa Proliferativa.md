@@ -29,7 +29,7 @@
 **Localización** : M. Yugal, paladar duro y blando, mucosa alveolar, lengua seulo de boca, encias y labios
 **Lesiones** : Homogéneas que evolucionan hacia exofiticas verrugosas alternando con areas eritematosas
 
-![Pasted image 20231120203334.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231120203334.png)
+![Pasted image 20231120203334.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231120203334.png)
 
 #### Evolución
 ---
