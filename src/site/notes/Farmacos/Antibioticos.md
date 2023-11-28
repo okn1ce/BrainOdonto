@@ -6,7 +6,7 @@
 ### Tetraciclinas
 ---
 
-![Pasted image 20231117023139.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117023139.png)
+![Pasted image 20231117023139.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117023139.png)
 
 🎯 Activa frente gram+ 
 🤰Embarazo : Contraindicado en 2a mitad de gestación (→ [[PTD/Patologias/Discoloraciones/Discoloraciones del esmalte y de la dentina#Tincion por tetraclinas\|Tincion por tetraciclinas]])
@@ -18,7 +18,7 @@
 ### Doxiciclina
 ---
 
-![Pasted image 20231117023914.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117023914.png)
+![Pasted image 20231117023914.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117023914.png)
 
 🎯 Inhibidor de la sintesis proteica bacteriana
 🤰Contraindicado en 2a mitad de gestación (→ [[PTD/Patologias/Discoloraciones/Discoloraciones del esmalte y de la dentina#Tincion por tetraclinas\|Tincion por tetraciclinas]])
@@ -29,7 +29,7 @@
 ### Minociclina
 ---
 
-![Pasted image 20231117024816.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117024816.png)
+![Pasted image 20231117024816.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117024816.png)
 
 🎯Bactericida. Inhibe la síntesis proteica bacteriana. Amplio espectro.
 🤰Contraindicado (→ [[PTD/Patologias/Discoloraciones/Discoloraciones del esmalte y de la dentina#Tincion por tetraclinas\|Tincion por tetraciclinas]])
@@ -49,7 +49,7 @@
 
 ### Metronidazol
 ---
-![Pasted image 20231117154544.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117154544.png)
+![Pasted image 20231117154544.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231117154544.png)
 
 🎯 Antiinfeccioso antibacteriano y antiparasitario
 🥛Evitar
