@@ -78,7 +78,7 @@ Manifestación **en piel, mucosa oral**, **uñas**, **cuero cabelludo** y otras 
 
 Inmufluorescencia directa positiva en la membrana basal con fibrinógeno
 
-![Pasted image 20231114103557.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231114103557.png)
+![Pasted image 20231114103557.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231114103557.png)
 
 
 **Entonces, que es un liquen plano tipíco histologico ?**
@@ -106,8 +106,8 @@ Hay que hacer un DD y se precisa el diagnostico clinico tipico junto al menos do
 Utilizaciòn de antiinflamatorios esteroides y/o corticoides locales.
 Generalmente se tratan las atrófico erosivas que producen síntomas.
 
-![Pasted image 20231114104810.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231114104810.png)
-![Pasted image 20231114104827.png|undefined](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231114104827.png)
+![Pasted image 20231114104810.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231114104810.png)
+![Pasted image 20231114104827.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231114104827.png)
 
 **Corticoides topicos** : 
 - [[Farmacos/Corticoesteroides (o corticoides) tópicos#Triamcinolona\|Triamcinolona 0,1%]]
