@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/instrumentos/diagnodent/"}
 ---
 
-![Pasted image 20231025000008.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025000008.png)
-![Pasted image 20231025000013.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025000013.png)
+![Pasted image 20231025000008.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025000008.png)
+![Pasted image 20231025000013.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231025000013.png)
 
 **→** Laser de diodo de 655nm
 **→** Lee 2 mm dientro del diente
