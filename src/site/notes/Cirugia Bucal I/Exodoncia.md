@@ -11,6 +11,9 @@
 - **Razones psicológicas**
 - Conlleva el uso de una protesis rehabilitadora y el agravante personal, de tieempo economico que representa.
 
+
+<div style="page-break-after: always;"></div>
+
 # Indicaciones de la exodoncia
 ---
 
@@ -38,7 +41,11 @@
 - **Traumatologia dentoalveolar**
 - **Factores socioeconómicos**
 
-![Pasted image 20231122023856.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122023856.png)
+![Pasted image 20231122023856.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122023856.png)
+
+
+<div style="page-break-after: always;"></div>
+
 # Contraindicaciones de la exodoncia
 ---
 
@@ -67,9 +74,11 @@
 - **Periodo** → Valorar con la paciente
 - **Embarazadas** → Valorar, el mejor trimestre, el 2°
 
-![Pasted image 20231122024710.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122024710.png)
+![Pasted image 20231122024710.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231122024710.png)
 
 
+
+<div style="page-break-after: always;"></div>
 
 # Valoracion preoperatoria 
 
@@ -114,6 +123,9 @@ Extraccion simple vs extraccion compleja → Valorar las dificultades → Planif
 - Evitar retrasos
 	- Mejora postop.
 	- Disminuye estrés.
+
+
+<div style="page-break-after: always;"></div>
 
 # Extracción simple
 
@@ -168,6 +180,8 @@ Extraccion simple vs extraccion compleja → Valorar las dificultades → Planif
 - Indice por vestibular
 - Pulgar por lingual
 
+<div style="page-break-after: always;"></div>
+
 ## Fases de la extracción simple
 
 1. Sindesmotomia
@@ -195,13 +209,13 @@ Extraccion simple vs extraccion compleja → Valorar las dificultades → Planif
 
 Una vez tenemos el botador correctamente aplicado, realizar movimientos de : 
 1. **Apalancamiento**
-![Pasted image 20231125180305.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125180305.png)
+![Pasted image 20231125180305.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125180305.png)
 
 2. **Rotación** : 
-![Pasted image 20231125180313.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125180313.png)
+![Pasted image 20231125180313.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125180313.png)
 
 3. **Cuña :** 
-![Pasted image 20231125180318.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125180318.png)
+![Pasted image 20231125180318.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125180318.png)
 
 → Fuerza controlada
 → Imagen radiologica sirve de guia
@@ -231,32 +245,32 @@ Una vez tenemos el botador correctamente aplicado, realizar movimientos de :
 → Con una adecuada prensión del diente
 → Impulsamos el diente hacia el fondo del alveolo
 → Desde esta posición del diente "impulsado" comenzaremos el movimiento de lateralidad
-![Pasted image 20231125182408.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125182408.png)
+![Pasted image 20231125182408.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125182408.png)
 
 2. **Lateralidad**
 → Movimientos de balanceo vestibulo linguales
 → Tacto de la mano opuesta sobre las corticales
 → Movimientos de balanceo cortos y progresivamente mas amplios hacia la zona de menor resistencia.
-![Pasted image 20231125182520.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125182520.png)
+![Pasted image 20231125182520.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125182520.png)
 
 3. **Rotación**
 → Rota el diente sobre su propio eje
 → Complementa los movimientos de lateralidad
 → **Exclusivos de monoradiculares**
-![Pasted image 20231125182612.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125182612.png)
+![Pasted image 20231125182612.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125182612.png)
 
 4. **Circunducción**
 → Cuando ya existe una ligera luxación
 → En los **molares superiores**
 	→ Apoyo en un punto situado entre las tres raices
 	→ Se describe un cono cuyo vértice es este punto imaginario
-![Pasted image 20231125182708.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125182708.png)
+![Pasted image 20231125182708.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125182708.png)
 #### Principios basicos
 
 → La aplicación del forceps debe ser lo mas profunda posible
 → Correcta adaptación al cuello
 
-![Pasted image 20231125182037.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125182037.png)
+![Pasted image 20231125182037.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125182037.png)
 
 ### Tracción
 
@@ -283,8 +297,8 @@ Una vez tenemos el botador correctamente aplicado, realizar movimientos de :
 → Irrigación de la cavidad
 → Compresión del alveolo
 
-![Pasted image 20231125183119.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125183119.png)
+![Pasted image 20231125183119.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125183119.png)
 
 ++ **Control de la coagulación**
 
-![Pasted image 20231125183113.png|undefined](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125183113.png)
+![Pasted image 20231125183113.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231125183113.png)
