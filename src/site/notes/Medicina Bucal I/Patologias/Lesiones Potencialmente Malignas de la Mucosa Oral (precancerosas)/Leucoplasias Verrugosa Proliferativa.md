@@ -10,7 +10,7 @@
 *Caractersticas :*
 → Muy resistentes al tt°
 → Alto riesgo de malignización
-→ Evolucionan hacia la formación de COCE o carcinoma verrugoso
+→ Evolucionan hacia la formación de [[Medicina Bucal I/Patologias/Tumores malignos de la mucosa oral/Derivados del epitelio/Carcinoma oral de Células Escamosas (COCE)\|Carcinoma oral de Células Escamosas (COCE)]] o carcinoma verrugoso
 
 #### Etiopatogenia
 ---
@@ -36,7 +36,7 @@
 
 → Alta tendencia a **recurrir** tras eliminación
 → Alto **riesgo de malignización** cercano al 100%
-→ 63,3% COCE
+→ 63,3% [[Medicina Bucal I/Patologias/Tumores malignos de la mucosa oral/Derivados del epitelio/Carcinoma oral de Células Escamosas (COCE)\|Carcinoma oral de Células Escamosas (COCE)]]
 → 26,7% Carcinoma verrugoso
 → Encias es la localización mas frecuente
 
@@ -45,7 +45,7 @@
 
 1. Clinico
 2. Retrospectivo por su evolución en el tiempo y en el espacio
-3. Histologia → hiperplasia, lesiones con displasia, carcinoma verrugoso o COCE
+3. Histologia → hiperplasia, lesiones con displasia, carcinoma verrugoso o [[Medicina Bucal I/Patologias/Tumores malignos de la mucosa oral/Derivados del epitelio/Carcinoma oral de Células Escamosas (COCE)\|Carcinoma oral de Células Escamosas (COCE)]]
 
 **Cuales son los criterios de diagnóstico ?**
 - Dos o mas localizaciones de lesiones verrugosas o papilomatosas
