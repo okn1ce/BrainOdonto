@@ -31,7 +31,7 @@
 ![Pasted image 20231128205012.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231128205012.png)
 
 **Diagnostico** : Clinico & Anatomopatólogico
-**Diagnostico diferencial** : COCE (revisar toda la lesión, bordes laterales y profundos)
+**Diagnostico diferencial** : [[Medicina Bucal I/Patologias/Tumores malignos de la mucosa oral/Derivados del epitelio/Carcinoma oral de Células Escamosas (COCE)\|Carcinoma oral de Células Escamosas (COCE)]] (revisar toda la lesión, bordes laterales y profundos)
 
 **Tt°** :
 - Algunos pueden remitir de forma espontanea
