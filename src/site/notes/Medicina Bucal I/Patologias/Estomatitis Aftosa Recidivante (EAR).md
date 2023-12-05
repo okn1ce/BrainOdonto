@@ -89,7 +89,7 @@ Localizadas en mucosa de revestimiento pero puede afectar tambien paladar blando
 
 <u>Descripcion</u> : Úlceras > 1 cm, ovaladas, formas más irregulares. Más profundas, con bordes eritematosos, no evertidos, ni infiltrados, fondo limpio, amarillento por el exudado fibrinoide, pueden presentar [[Medicina Bucal I/Patologias/Adenopatías\|adenopatias]]. Son muy dolorosas.
 
-DD con COCE
+DD con [[Medicina Bucal I/Patologias/Tumores malignos de la mucosa oral/Derivados del epitelio/Carcinoma oral de Células Escamosas (COCE)\|Carcinoma oral de Células Escamosas (COCE)]]
 
 
 ![Pasted image 20231028150449.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150449.png)
@@ -139,7 +139,7 @@ Clinica + Histologia + Pruebas complementarias
 - Vesiculas, ampollas, erosiones y costras, tambien en piel
 3. **Reaccion de hipersensibilidad a un alergeno**
 - Eritema fijo medicamentoso
-4. **Carcinoma oral de celulas escamosas (COCE)**
+4. [[Medicina Bucal I/Patologias/Tumores malignos de la mucosa oral/Derivados del epitelio/Carcinoma oral de Células Escamosas (COCE)\|Carcinoma oral de Células Escamosas (COCE)]]
 - Ulcera de bordes irregulares y evertidos, fondo sucio y indurada
 
 
