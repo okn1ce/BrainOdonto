@@ -73,7 +73,7 @@ Desarrollo de **tejido de granulación** y presencia de células inflamatorias c
 - [[PTD/Patologias/Patologia Pulpar/Diagnostico endodoncia (PVP)\|Diagnostico endodoncia (PVP)]] negativa
 - RX : Ensanchamiento periodontal lateral y apical
 	- Para que sea visible = 30-50% de destrucción!
-- Puede haber reabsorción de ápice o hipercementosis
+- Puede haber [[PTD/Patologias/Otras/Reabsorción dental\|reabsorción]] de ápice o hipercementosis
 - Histológia granuloma / quiste
 
 ## Radiología 
