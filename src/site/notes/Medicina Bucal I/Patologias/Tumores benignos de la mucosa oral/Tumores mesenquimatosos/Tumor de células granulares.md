@@ -25,5 +25,5 @@
 ![Pasted image 20231128215749.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231128215749.png)
 
 **Diagnostico** : Clinico & Anatomopatólogico
-**Diagnostico diferencial** : COCE
+**Diagnostico diferencial** : [[Medicina Bucal I/Patologias/Tumores malignos de la mucosa oral/Derivados del epitelio/Carcinoma oral de Células Escamosas (COCE)\|Carcinoma oral de Células Escamosas (COCE)]]
 **Tt°** : Resección quirúrgica (si se hace de toda la lesión es curativa y sin recidivas)
