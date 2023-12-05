@@ -3,7 +3,7 @@
 ---
 
 
-Para interpreter imagenes, hay que tene un **número adecuado de imágenes de calidad diagnóstica**. 
+Para interpreter imagenes, hay que tener un **número adecuado de imágenes de calidad diagnóstica**. 
 
 → Realización de imagenes **paralelas**
 
@@ -214,6 +214,7 @@ B → RX periap. de la misma región donde las lesiones PM **no son visibles** d
 
 # Resorción o Reabsorción dental
 
+→ [[PTD/Patologias/Otras/Reabsorción dental\|Reabsorción dental]]
 → Puede confundirse con la caries.
 → Proceso **destructivo** por fagocitosis celular
 → Reabsorción **interna** (comienza en el interior del conducto-pulpa) y **externa** (comienza en periodonto).
