@@ -13,7 +13,7 @@
 # Tipos 
 ## TBC Intraoral Secundaria
 - Ulcera de contorno irregular con inflamacion periférica, dolorosa, de consistencia blanda de varios meses de evolución
-- DX Dif : COCE
+- DX Dif : [[Medicina Bucal I/Patologias/Tumores malignos de la mucosa oral/Derivados del epitelio/Carcinoma oral de Células Escamosas (COCE)\|Carcinoma oral de Células Escamosas (COCE)]]
 - Puede cursar con placas, vesiculas, lesiones induradas en tej blandos, lesiones papulomatosas u osteomielitis tuberculosa
 - Odinofagia, fiebre y pérdida de peso
 
