@@ -9,7 +9,7 @@ Inyeccion justo en papila interdentaria
 
 ##### Indicaciones 
 - Ciertos ttos sobre la papila
-- [[Cirugia Bucal I/Exodoncia\|Exodoncia]] de dientes temporales moviles
+- [[Cirugia Bucal I/Exodoncia/Exodoncia simple\|Exodoncia simple]] de dientes temporales moviles
 - Procedimientos cortos
 
 ! Limitado a 1 o 2 papilas !
