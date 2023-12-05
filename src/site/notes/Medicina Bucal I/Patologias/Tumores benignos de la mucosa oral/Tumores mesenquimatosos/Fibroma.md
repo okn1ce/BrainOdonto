@@ -36,7 +36,7 @@
 
 <u>Dos tipos : </u>
 **Fibroma Traumatico o Diapneusico (polipo fibroepitelial)** → Nódulo firme, sésil o pediculado, asintomático, recubierto de mucosa normal, ulcerada en alguna ocasión.
-**Epulis fisurado (hiperplasia fibrosa inducida por prótesis** → Típico aspecto en hojas de libro, como pliegues, en relación con los bordes de una dentadura mal ajustada, recubiertos de mucosa normal, asintomáticos y a veces ulcerados por el roce. Eso general **dolor e inflamación**
+**Epulis fisurado (hiperplasia fibrosa inducida por prótesis)** → Típico aspecto en hojas de libro, como pliegues, en relación con los bordes de una dentadura mal ajustada, recubiertos de mucosa normal, asintomáticos y a veces ulcerados por el roce. Eso general **dolor e inflamación**
 ![Pasted image 20231128212336.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231128212336.png)
 ![Pasted image 20231128212341.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231128212341.png)
 
