@@ -16,7 +16,7 @@
 #### Etiologia
 ---
 
-→ Irritación local (por ej. [[Cirugia Bucal I/Exodoncia\|Exodoncia]])
+→ Irritación local (por ej. [[Cirugia Bucal I/Exodoncia/Exodoncia simple\|Exodoncia simple]])
 → Origen biológico ; ligamento periodontal o periostio
 → Localización : Encia adherida (existan dientes o no)
 
@@ -27,7 +27,7 @@
 **Sintomatologia** : Asintomatico, pero tendencia a sangrar.
 
 **Descripción** :
-- Tumoración de tacto carnoso, blando, sésil o pediculada de colro que puede variar del rojo oscuro al purpura
+- Tumoración de tacto carnoso, blando, sésil o pediculada de color que puede variar del rojo oscuro al purpura
 - Puede ulcerarse en la superficie y tener un color blanquecino-amarillento (fibrina)
 - En RX, zona de radiolucidez
 - Puede afectar a hueso alveolar (reabsorción)
