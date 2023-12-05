@@ -31,6 +31,6 @@
 - Asociar ATB : Amox-clav 875/125mg
 
 → Pasado el brote agudo
-- [[Cirugia Bucal I/Exodoncia\|Exodoncia]] del diente (salvo en brotes leves y posicion favorable del diente)
+- [[Cirugia Bucal I/Exodoncia/Exodoncia simple\|Exodoncia simple]] del diente (salvo en brotes leves y posicion favorable del diente)
 
 
