@@ -22,7 +22,7 @@ La barre latérale liste tous les cours disponible à ce jour. Chaque nouvelle f
 
 Le site est organisé de cette manière : 
 
-Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possède sa propre page (comme sur Wikipédia). Lorsqu'une définition a été vu en cours, elle sera soulignée en bleue et aura sa propre page (il suffit de cliquer dessus)
+Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possède sa propre page (comme sur Wikipédia). Lorsqu'une définition a été vu en cours, **elle sera soulignée et en couleur et aura sa propre page (il suffit de cliquer dessus)**. Il est très IMPORTANT de comprendre que les mots soulignés et en couleur sont des LIENS CLIQUABLES. Il faut impérativement utiliser ces liens pour profiter au maximum de ce que le site a à offrir. Exemple : [[PTD/Patologias/Otras/Reabsorción dental\|Reabsorción dental]]
 
 > [!info] Vous pouvez chercher n'importe quel mot
 > Suffit d'utiliser la barre de recherche et d'y écrire le mot (ex: Caries). Vous aurez une liste de cours ayant ce mot.
@@ -35,18 +35,37 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 *28/11/2023*
 # Derniers ajouts : 
 
+## 05/12/2023
+- Ajout de [[Medicina Bucal I/Patologias/Tumores malignos de la mucosa oral/Tumores malignos (Index)\|Tumores malignos (Index)]]
+	- → [[Medicina Bucal I/Patologias/Tumores malignos de la mucosa oral/Derivados del epitelio/Carcinoma oral de Células Escamosas (COCE)\|Carcinoma oral de Células Escamosas (COCE)]]
+	- → [[Medicina Bucal I/Patologias/Tumores malignos de la mucosa oral/Derivados del epitelio/Carcinoma Verrugoso de Ackerman\|Carcinoma Verrugoso de Ackerman]]
+	- → [[Medicina Bucal I/Patologias/Tumores malignos de la mucosa oral/Derivados del epitelio/Melanoma\|Melanoma]]
+	- → [[Medicina Bucal I/Patologias/Tumores malignos de la mucosa oral/Metastasis de partes blandas\|Metastasis de partes blandas]]
+## 04/12/2023
+- Ajout de [[Cirugia Bucal I/Exodoncia/Exodoncia compleja\|Exodoncia compleja]]
+- Ajout de [[PTD/Patologias/Diagnostico diferencial del dolor orofacial\|Diagnostico diferencial del dolor orofacial]]
+	- → Ajout de liens vers ce concept.
+- Correction de fautes d'orthographe.
+## 01/12/2023
+- Ajout de [[PTD/Patologias/Otras/Reabsorción dental\|Reabsorción dental]]
+	- → Ajout de liens vers ce concept.
+- Préparations des surprises pour Noël ☻
+- Correction de fautes d'orthographe.
+## 29/11/2023
+- Correction de fautes d'orthographe.
+- Ajout de [[PTD/Patologias/Otras/Desgaste Dental\|Desgaste Dental]]
 ## 28/11/2023
 - Ajout de [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores Benignos\|Tumores Benignos]]
 	- → [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epitaliales/Nevus\|Nevus]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epitaliales/Papiloma\|Papiloma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epitaliales/Queratoacantoma\|Queratoacantoma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Fibroma\|Fibroma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/GPCG\|GPCG]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Granuloma piógeno\|Granuloma piógeno]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Hemangioma\|Hemangioma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Linfangioma\|Linfangioma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Lipoma\|Lipoma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Neurofibroma\|Neurofibroma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Schwannoma\|Schwannoma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Tumor de células granulares\|Tumor de células granulares]]
 ## 26/11/2023
 - Ajout de [[PTD/Radio/INTERPRETACION RADIOLOGÍA\|INTERPRETACION RADIOLOGÍA]]
 ## 25/11/2023
-- Ajout de la fin de [[Cirugia Bucal I/Exodoncia\|Exodoncia]]
+- Ajout de la fin de [[Cirugia Bucal I/Exodoncia/Exodoncia simple\|Exodoncia simple]]
 	- → Ajout de liens vers ce concept.
 ## 24/11/2023
 - Ajout de [[PTD/Radio/RADIOLOGÍA 2D - CBCT 3D\|RADIOLOGÍA 2D - CBCT 3D]]
 ## 22/11/2023
-- Ajout de [[Cirugia Bucal I/Exodoncia\|Exodoncia]] 
+- Ajout de [[Cirugia Bucal I/Exodoncia/Exodoncia simple\|Exodoncia simple]] 
 	- → Ajout de liens vers ce concept.
 - Ajout de [[Cirugia Bucal I/Tiempos del acto Quirurgico\|Tiempos del acto Quirurgico]]
 - Ajout de [[Protesis I/Biomecánica de la ATM y posiciones básicas de la mandibula\|Biomecánica de la ATM y posiciones básicas de la mandibula]]
