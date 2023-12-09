@@ -44,6 +44,8 @@ La **ATM** es una articulación compuesta y su estructura y función puede divid
 **Posiciones céntricas :**
 - Maxima intercuspidación
 - Relación céntrica
+{ #4b2418}
+
 - **Movimientos excéntricos :**
 	- Protrusión
 	- Lateralidad
@@ -165,6 +167,9 @@ encore une fois : **ES INDEPENDIENTE DE LOS CONTACTOS OCLUSALES**
 
 → En **una relación oclusal normal,** los caninos maxilar y mandibular contactan durante **los movimientos laterales derecho e izquierdo y laterotrusivos**. Estos se producen **entre las superficies labiales y bordes incisales de los caninos mandibulares y las fosas linguales y los bordes incisales de los caninos maxilares**. Al igual que como los contactos protrusivos, se consideran las **inclinaciones guía**.
 
+**Angulo de Bennet** : Angulo formado entre el plano sagital y el tryecto de que lleva a cabo el condilo del lado de no trabajo durante el movimiento lateral mandibular observado en el plano horizontal.
+
+![Pasted image 20231208160700.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231208160700.png)
 ##### Retrusión
 ---
 
