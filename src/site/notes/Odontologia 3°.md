@@ -35,6 +35,12 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 *28/11/2023*
 # Derniers ajouts : 
 
+## 08/12/2023
+- Ajout de [[Protesis I/Relaciones Intermaxilares y Registro estáticos y Dinámica\|Relaciones Intermaxilares y Registro estáticos y Dinámica]]
+## 07/12/2023
+- Ajout de [[PTD/Dental Trauma/Dental trauma (index)\|Dental trauma (index)]]
+	- Ajout de [[PTD/Dental Trauma/Etiología, Clasificación y Epidemiología de los Traumatismos Dentales\|Etiología, Clasificación y Epidemiología de los Traumatismos Dentales]]
+	- Ajout de [[PTD/Dental Trauma/FRACTURAS CORONARIAS COMPLICADAS Y NO COMPLICADAS.\|FRACTURAS CORONARIAS COMPLICADAS Y NO COMPLICADAS.]]
 ## 05/12/2023
 - Ajout de [[Medicina Bucal I/Patologias/Tumores malignos de la mucosa oral/Tumores malignos (Index)\|Tumores malignos (Index)]]
 	- → [[Medicina Bucal I/Patologias/Tumores malignos de la mucosa oral/Derivados del epitelio/Carcinoma oral de Células Escamosas (COCE)\|Carcinoma oral de Células Escamosas (COCE)]]
