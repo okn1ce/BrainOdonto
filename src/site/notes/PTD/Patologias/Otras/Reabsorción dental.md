@@ -29,7 +29,7 @@ Dos tipos de reabsorción : **Interna y Externa**
 Es una **inflamación crónica pulpar** → desarrollo de **células clasticas** (osteoclastos) que **fagocitan la dentina**.
 - Caries o obturaciones profundas
 - Exposiciones pulpares
-- Traumatismos dentales
+- [[PTD/Dental Trauma/Dental trauma (index)\|traumatismos]] dentales
 - Movimientos ortodóncicos
 - Idiopaticas
 
