@@ -26,7 +26,7 @@
 **Localización** : Mucosa yugal, labio inferior, lengua y encias. Zonas de roce o factores irritativos : caries, diastemas, malos habitos, prótesis y aparatos ortodóncicos 
 **Tamaño** : Variables (Hasta 2cm)
 
-→ Puede ulcerarse por **traumatismo repetido** (dolor e inflamación)
+→ Puede ulcerarse por **[[PTD/Dental Trauma/Dental trauma (index)\|traumatismos]] repetido** (dolor e inflamación)
 
 **Descripción** :
 - Tumor bien definido, firme, sésil o pediculado, con superficie lisa de epitelio normal, asintomatico y de larga evolución
