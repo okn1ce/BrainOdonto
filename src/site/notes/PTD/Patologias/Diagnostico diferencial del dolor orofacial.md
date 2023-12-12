@@ -138,7 +138,7 @@ Varios tipos :
 - Tiene periodos de remisión, aparecen en momentos similares durante el dia, la semana o el mes
 - Falta de causa dental razonable del dolor
 - Efecto de la anestesia local es impredecible
-- Puede ser enfermedad, sinusitis, tt° dental, cirugia o traumatismo.
+- Puede ser enfermedad, sinusitis, tt° dental, cirugia o [[PTD/Dental Trauma/Dental trauma (index)\|traumatismos]].
 - Muy frecuentemente se siente inicialmente en un diente (canino maxilar y premolar) como un dolor tan real que nos hace realizar un tt° dental.
 
 → Puede **remitir tras un tt° dental**, pero la **recurrencia es una caracteristica de los dolores neurovasculares**
