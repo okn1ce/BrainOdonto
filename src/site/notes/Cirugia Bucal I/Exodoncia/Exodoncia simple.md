@@ -68,7 +68,7 @@
 - **Pacientes sometidos a tt° antiagregantes y anticoagulantes**
 - **Pacientes oncólogicos bajo radioterapia o quimioterapia**
 - **Pacientes transplantados**
-- **Pacientes con VIH y VHC**
+- **Pacientes con [[Medicina Bucal I/Patologias/VIH\|VIH]] y VHC**
 - **Fiebre alta de origen desconocida** → NO HACER TT°
 - **Minusvalias psiquicas**
 - **Periodo** → Valorar con la paciente
