@@ -10,7 +10,7 @@
 DT = Dentición temporal*
 
 - **Caidas**
-	- 1-2 anos, intrusiones que afectan a DP
+	- 1-2 anos, [[PTD/Dental Trauma/Lesiones dentarias con luxación#Luxación intrusiva o dislocación central\|intrusiones]] que afectan a DP
 	- 3-4 anos, guarderia, parques
 	- Escolar, fracturas coronas
 - **Deportes** DP
@@ -104,7 +104,7 @@ DT = Dentición temporal*
 	- Lesiones **crónicas**
 		- → Continuas durante periodo prolongado
 			- Procesos consuntivos
-			- Impacto repetido piercing lingual
+			- Por ej : Impacto repetido piercing lingual
 			- Mordedura mucosa
 			- Borde cortante diente roto
 
@@ -140,7 +140,7 @@ Hay factores que caracterizan el impacto y determinan las lesiones dentarias :
 	- Complicada
 - [[PTD/Dental Trauma/FRACTURAS CORONARIAS COMPLICADAS Y NO COMPLICADAS.#Fracturas radiculares\|Fracturas radiculares]]
 ## Lesiones de los tejidos periodontales
-- **Concusión**
+- [[PTD/Dental Trauma/Lesiones dentarias con luxación#Concusión\|Concusión]]
 - **Subluxación**
 - **Luxación**
 	- Intrusiva o Intrusión
