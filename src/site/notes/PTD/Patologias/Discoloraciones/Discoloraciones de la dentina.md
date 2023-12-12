@@ -55,7 +55,7 @@ La sangre de origen pulpar penetra en los tubulos dentinarios y se produce hemol
 ![Pasted image 20231014152016.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014152016.png)
 #### Calcificacion pulpar
 
-Como respuesta a traumatismos, caries o enfermedad periodontal / parafuncionales (bruxismo). Dan lugar a dientes opacos y amarillentos.
+Como respuesta a [[PTD/Dental Trauma/Dental trauma (index)\|traumatismos]], caries o enfermedad periodontal / parafuncionales (bruxismo). Dan lugar a dientes opacos y amarillentos.
 
 ![Pasted image 20231014152030.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231014152030.png)
 
