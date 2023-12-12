@@ -122,7 +122,7 @@ Estructura y permeabilidad tubular. Progresion mas rapida en jovenes
 - Ante ataque agresivo o prolongado
 - Caries avanzadas
 - Tallados
-- Traumatismos
+- [[PTD/Dental Trauma/Dental trauma (index)\|traumatismos]]
 - Procesos consuntivos
 - RPD
 
