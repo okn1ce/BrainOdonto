@@ -64,13 +64,13 @@ Hay tambien una estimulacion de las fibras C. Se hace cuando hay procesos inflam
 
 ## Traumatica
 
-- **Traumatismo agudos**
+- [[PTD/Dental Trauma/Dental trauma (index)\|traumatismos]] agudos**
 	- Fisuras
 	- Fracturas coronas-radicular
 	- Luxaciones
 		- Lesion directa del paquete vasculonervioso
 		- Invasion bacteriana
-- **Traumatismos cronicos**
+- [[PTD/Dental Trauma/Dental trauma (index)\|traumatismos]] cronicos**
 	- Bruxismo
 	- Atricion
 	- Abrasion
