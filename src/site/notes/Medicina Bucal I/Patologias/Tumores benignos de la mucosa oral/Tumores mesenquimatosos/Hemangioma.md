@@ -14,14 +14,14 @@
 ---
 
 → Recien nacidos o edades precoces (regresión en la pubertad)
-→ Hemangiomas seniles (fenomeno traumatico)
+→ Hemangiomas seniles (fenomeno [[PTD/Dental Trauma/Dental trauma (index)\|traumatico]])
 → Mujeres
 #### Manifestaciones clinicas
 ---
 
 **Localización** : Labios, mucosa yugal, lengua y paladar 
 **Tamaño** : Variable (poco mm a lesiones muy extensas)
-**Sintomatología** : Asintomaticos (traumatismos = sangrado)
+**Sintomatología** : Asintomaticos ([[PTD/Dental Trauma/Dental trauma (index)\|traumatismos]] = sangrado)
 
 **Descripción** :
 - **Hemoangioma capilar** : Formado por numerosos capilares, superficie roja plana o ligeramente sobrelevada.
