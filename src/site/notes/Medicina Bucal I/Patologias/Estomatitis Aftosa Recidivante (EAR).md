@@ -36,7 +36,7 @@
 3. Enfermedad de Crohn y colitis ulcerosa
 4. Neutropenia ciclica
 5. Sindrome de fiebre periodica, aftosis, faringits y [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]]
-6. VIH
+6. [[Medicina Bucal I/Patologias/VIH\|VIH]]
 7. Sindrome de Reiter
 8. Sindrome de Magic
 9. Sindrome de Sweet
