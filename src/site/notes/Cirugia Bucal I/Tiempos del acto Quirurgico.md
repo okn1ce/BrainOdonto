@@ -28,6 +28,9 @@
 ### Tipos de incisiones
 
 #### Partsch 
+{ #f934f9}
+
+
 ![Pasted image 20231106161823.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106161823.png)
 ![Pasted image 20231106161900.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106161900.png)
 ![Pasted image 20231106162020.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231106162020.png)
