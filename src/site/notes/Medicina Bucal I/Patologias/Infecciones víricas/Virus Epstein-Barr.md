@@ -25,7 +25,7 @@ Pueden curar en 1 o 2 dias.
 
 → Lesiones blanquecinas alargadas y sobreelevadas en los bordel laterales de la lengua, bilaterales, **no se desprenden al raspado**, son asintomaticas = no potencial de maligndad
 
-→ En pacientes inmunocomprometidos y en VIH+ con CD4 y aumento de la carga viral
+→ En pacientes inmunocomprometidos y en [[Medicina Bucal I/Patologias/VIH\|VIH]]+ con CD4 y aumento de la carga viral
 
 Tratamiento de la inmunidad mejora la lesion
 
