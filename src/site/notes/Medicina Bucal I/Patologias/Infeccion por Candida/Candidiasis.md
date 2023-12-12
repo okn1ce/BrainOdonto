@@ -44,7 +44,7 @@
 ## Pseudomembranosa Cronica
 
 → Mismas caracteristicas clinicas que la aguda
-→ Evolucion mas prolongada **meses incluso anos** en pacientes inmunocomprometidos, corticoides topicos o inhalados, VIH...
+→ Evolucion mas prolongada **meses incluso anos** en pacientes inmunocomprometidos, corticoides topicos o inhalados, [[Medicina Bucal I/Patologias/VIH\|VIH]]...
 
 
 ## Eritematosa Cronica
@@ -157,7 +157,7 @@ Papilar hiperplasica, aspecto granular o nodular
 - [[Farmacos/Antifungico#Nistatina\|Nistatina]] solución 100.000UI/cc 4-6v/día 30 días
 - [[Farmacos/Antifungico#Miconazol\|Miconazol]] gel 100 mg 4v/día 30 días
 
-## Candidiasis en inmunodeprimidos y/o VIH
+## Candidiasis en inmunodeprimidos y/o [[Medicina Bucal I/Patologias/VIH\|VIH]]
 
 → Combinar desde principio topico y sistemico
 → Tratamiento farmacologico : 
