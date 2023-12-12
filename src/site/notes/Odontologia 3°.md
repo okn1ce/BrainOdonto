@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/odontologia-3/","tags":["gardenEntry"]}
 ---
 
-![Pasted image 20231112220219.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231112220219.png)
+![Pasted image 20231212202904.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231212202904.png)
 # Wik'is'pédia ?
 
 Cette base de données contient toutes mes fiches (du moment), faisant office de "wikipédia" de toutes les informations des cours.
@@ -38,6 +38,7 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 - Ajout de [[PTD/Dental Trauma/Lesiones dentarias con luxación\|Lesiones dentarias con luxación]]
 - Ajout de [[Cirugia Bucal I/Exodoncia/Complicaciones intraoperatorias\|Complicaciones intraoperatorias]]
 - Ajout de [[Medicina Bucal I/Patologias/VIH\|VIH]]
+-  Ajout de [[Protesis I/Introducción a la maloclusión\|Introducción a la maloclusión]]
 	- → Ajout de liens vers ce concept.
 - Correction de fautes d'orthographe
 ## 08/12/2023
