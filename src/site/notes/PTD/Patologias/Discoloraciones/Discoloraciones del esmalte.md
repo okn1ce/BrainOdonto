@@ -28,7 +28,7 @@ Tipos de fluorosis :
 
 #### Defectos de desarrollo del esmalte 
 
-- Traumatismos
+- [[PTD/Dental Trauma/Dental trauma (index)\|traumatismos]]
 - Infecciones en dientes temporales
 - Alteraciones metabolicas, nutricionales
 
