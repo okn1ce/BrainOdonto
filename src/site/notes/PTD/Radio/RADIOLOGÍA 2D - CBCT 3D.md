@@ -25,7 +25,7 @@ Entonces, la limitación de estas radiografías 2D es que hay una superposición
 
 ![Pasted image 20231124020627.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231124020627.png)
 
-**Quemadura/Veladura cervical** = Hay **áreas radiolucidos difusos**, que son por **sobre-exposición** de la parte lateral del diente entre el esmalte y la cresta alveolar → **No confundir con caries**
+**Quemadura/Veladura cervical** = Hay **áreas radiolucidos difusos**, que son por **sobre-exposición** de la parte lateral del diente entre el esmalte y la cresta alveolar → **No confundir con [[PTD/Patologias/Caries/Caries\|Caries]]
 { #cb9af4}
 
 
