@@ -49,7 +49,7 @@
 - Cultivos de medios especificos (Lowenstein-Jensen)
 - Histologia (foliculos de Koster)
 - PCR (DNA de la bacteria)
-- Descartar VIH asociado
+- Descartar [[Medicina Bucal I/Patologias/VIH\|VIH]] asociado
 
 # Tratamiento
 -  [[Farmacos/Antibioticos\|Antibioticos]] prolongados
