@@ -109,6 +109,8 @@ ella y que generalmente la agrava o la alarga.
 ---
 
 → **Nivel 4 : Exodoncia quirurgica de dientes retenidos**
+{ #34761d}
+
 
 <u>Indicaciones</u> : 
 - Dientes retenidos
