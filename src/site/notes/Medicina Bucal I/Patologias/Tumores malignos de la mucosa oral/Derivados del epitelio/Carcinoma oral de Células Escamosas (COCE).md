@@ -35,7 +35,7 @@ Por **terreno predispuesto** :
 2. Alcohol
 3. Virus (VPH 16-18)
 4. Oncogenos (p53)
-5. Otros factores : traumatismos repetidos, mala higiene oral, dientes en mal estado, periodontitis..
+5. Otros factores : [[PTD/Dental Trauma/Dental trauma (index)\|traumatismos]] repetidos, mala higiene oral, dientes en mal estado, periodontitis..
 6. Antecedentes de lesiones o condiciones precancerosas
 7. Dietas probres en antioxidantes (frutas verdura)
 
