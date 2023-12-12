@@ -19,7 +19,7 @@
 
 ## Diagnostico
 Clinico ! 
-Descartar VIH, leucemia o agranulocitosis 
+Descartar [[Medicina Bucal I/Patologias/VIH\|VIH]], leucemia o agranulocitosis 
 **Hacer DD con** :
 - [[Medicina Bucal I/Patologias/Infecciones víricas/Virus del Herpes Simple\|Primoinfeccion herpética]]
 - [[Medicina Bucal I/Patologias/Eritema multiforme\|Eritema multiforme]]
