@@ -34,7 +34,12 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 ![Pasted image 20231128220220.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231128220220.png)
 *28/11/2023*
 # Derniers ajouts : 
-
+## 12/12/2023
+- Ajout de [[PTD/Dental Trauma/Lesiones dentarias con luxación\|Lesiones dentarias con luxación]]
+- Ajout de [[Cirugia Bucal I/Exodoncia/Complicaciones intraoperatorias\|Complicaciones intraoperatorias]]
+- Ajout de [[Medicina Bucal I/Patologias/VIH\|VIH]]
+	- → Ajout de liens vers ce concept.
+- Correction de fautes d'orthographe
 ## 08/12/2023
 - Ajout de [[Protesis I/Relaciones Intermaxilares y Registro estáticos y Dinámica\|Relaciones Intermaxilares y Registro estáticos y Dinámica]]
 ## 07/12/2023
