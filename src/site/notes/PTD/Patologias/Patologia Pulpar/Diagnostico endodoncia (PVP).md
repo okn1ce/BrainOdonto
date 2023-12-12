@@ -19,7 +19,7 @@ Se hace en diente seco y aislamiento relativo.
 → Respuesta positiva + dolor persistente al retirar el estimulo → Pulpitis irreversible
 
 **Falsos positivos** : Necrosis parciales, dientes multirradiculares
-**Falsos negativos** : Calcificaciones, traumatismos recientes, ápices abiertos, coronas protésicas y premedicación
+**Falsos negativos** : Calcificaciones, [[PTD/Dental Trauma/Dental trauma (index)\|traumatismos]] recientes, ápices abiertos, coronas protésicas y premedicación
 
 ![Pasted image 20231102024245.png](/img/user/PTD/M%C3%A9dias/Pasted%20image%2020231102024245.png)
 
