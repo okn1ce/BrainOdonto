@@ -32,6 +32,10 @@ color: #f5cac3;
 img {
   border-radius: 4px;
   box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -26px;
+  display: flex;
+  gap: 0.5rem;
+  place-items: center;
+    flex-direction: column;
 }
 
 /* Image grid */
