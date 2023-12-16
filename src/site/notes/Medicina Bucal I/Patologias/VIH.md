@@ -117,8 +117,8 @@ El diagnostico de las manifestaciones orales de la enfermedad en los primeros es
 	- Ttº : Aciclovir 400mg 5v/d 10-21 dias (o famiclovir, valaclovir, foscanet)
 	- Con el TARGA han dismuido
 
-![](https://www.uv.es/medicina-oral/Docencia/atlas/6/42.jpg)
 
+![](https://www.uv.es/medicina-oral/Docencia/atlas/6/42.jpg)
 ![](https://www.uv.es/medicina-oral/Docencia/atlas/6/53.jpg)
 
 <div style="page-break-after: always; visibility: hidden;">\pagebreak</div>
