@@ -34,6 +34,10 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 ![Pasted image 20231128220220.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231128220220.png)
 *28/11/2023*
 # Derniers ajouts : 
+
+## 16/12/2023
+- Ajout de [[Cirugia Bucal I/Exodoncia/Complicaciones postoperatorias\|Complicaciones postoperatorias]]
+- Ajout de [[Protesis I/Determinantes de la morfologia oclusal\|Determinantes de la morfologia oclusal]]
 ## 12/12/2023
 - Ajout de [[PTD/Dental Trauma/Lesiones dentarias con luxación\|Lesiones dentarias con luxación]]
 - Ajout de [[Cirugia Bucal I/Exodoncia/Complicaciones intraoperatorias\|Complicaciones intraoperatorias]]
