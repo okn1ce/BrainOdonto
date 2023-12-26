@@ -133,23 +133,28 @@ Papilar hiperplasica, aspecto granular o nodular
 - [[Farmacos/Antifungico#Miconazol\|Miconazol]] gel 100 mg **4v/día** **30 días**
 - Si no responde en 3 semanas: [[Farmacos/Antifungico#Ketoconazol\|Ketoconazol]] comp. **200mg/día 14 días** o [[Farmacos/Antifungico#Fluconazol\|Fluconazol]] **100mg/día 15 días**
 
+![Pasted image 20231222160322.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231222160322.png)
 ## Candidiasis eritematosa
 
 → Tratamiento farmacológico : 
 - [[Farmacos/Antifungico#Nistatina\|Nistatina]] solución 100.000UI/cc 4-6v/día 30 días
 - [[Farmacos/Antifungico#Miconazol\|Miconazol]] gel 100 mg 4v/día 30 días
 
+![Pasted image 20231222160337.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231222160337.png)
 ## Candidiasis hiperplasica
 
 → Factores predisponentes : tabaco, protesis
 → Biopsia 
 → [[Farmacos/Antifungico#Nistatina\|Nistatina]], [[Farmacos/Antifungico#Miconazol\|Miconazol]] 2 meses si no responde [[Farmacos/Antifungico#Fluconazol\|Fluconazol]]
 
+![Pasted image 20231222160347.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231222160347.png)
+
 ## Estomatitis protésica tt°
 
 → Factores predisponentes : cambiar rebasar prótesis, quitarla de noche, solucion de clorhexidina o anfotericina B
 → Topicos [[Farmacos/Antifungico#Nistatina\|Nistatina]], [[Farmacos/Antifungico#Miconazol\|Miconazol]] o [[Farmacos/Antifungico#Ketoconazol\|Ketoconazol]] bajo protesis 30 dias
 
+![Pasted image 20231222160354.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231222160354.png)
 ## Quelitis angular o comisural
 
 → Factores predisponentes: dimensión vertical, xerostomía, avitaminosis
@@ -157,6 +162,8 @@ Papilar hiperplasica, aspecto granular o nodular
 - [[Farmacos/Antifungico#Nistatina\|Nistatina]] solución 100.000UI/cc 4-6v/día 30 días
 - [[Farmacos/Antifungico#Miconazol\|Miconazol]] gel 100 mg 4v/día 30 días
 
+![Pasted image 20231222160402.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231222160402.png)
+![Pasted image 20231222160407.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231222160407.png)
 ## Candidiasis en inmunodeprimidos y/o [[Medicina Bucal I/Patologias/VIH\|VIH]]
 
 → Combinar desde principio topico y sistemico
