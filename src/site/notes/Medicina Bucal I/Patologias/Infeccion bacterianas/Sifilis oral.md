@@ -17,7 +17,7 @@
 ## Sifilis Secundaria 
 → Espiroquetemia generalizada +/- 6 semanas de la curacion del chancro
 → Placas mucosas como **maculopapulas blanquecinas** multiples con tendencia a agruparse con aspecto **serpetiforme**, muy contagiosas
-→ Otras formas de presentación: [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]] y **depapilaciones**
+→ Otras formas de presentación: [[Medicina Bucal I/Etimiologias/Adenopatías\|Adenopatías]] y **depapilaciones**
 
 ![Pasted image 20231028150108.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150108.png)
 
