@@ -37,7 +37,7 @@
 1. **Sintomas prodromicos** : 
 - Fiebre
 - Mal estado general
-- [[Medicina Bucal I/Patologias/Adenopatías\|adenopatías]] submandibulares localizadas
+- [[Medicina Bucal I/Etimiologias/Adenopatías\|adenopatías]] submandibulares localizadas
 - eritema faringeo
 - cefalea
 - irritabilidad
