@@ -58,7 +58,7 @@ El asociación tabaco-alcohol es **el responsable del 80% de los tumores de la b
 # Clinica
 ---
 
-**Tumoración ulcerada e indurada**, dolorosa o no, que se acompana frecuentemente de [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]]. 
+**Tumoración ulcerada e indurada**, dolorosa o no, que se acompana frecuentemente de [[Medicina Bucal I/Etimiologias/Adenopatías\|Adenopatías]]. 
 
 **Tamano** : variable de mm a centimetros
 **Localización** : en el 75-80% en **la lengua, suelo de la boca y paladar blando** 
@@ -126,7 +126,7 @@ Se clasifican segun la OMS en :
 
 El pronostico depende de : 
 - Tamano del tumor
-- [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]]
+- [[Medicina Bucal I/Etimiologias/Adenopatías\|Adenopatías]]
 - Metastasis
 
 ## Estadiaje
@@ -141,8 +141,8 @@ El pronostico depende de :
 	- A) afectación hueso maxilar, senos , piel
 	- B) afectación de espacio masticador, apófisis pterigoides o base de cráneo
 
-2. **N por [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]] metastasicas**
-- No → (no hay [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]] palpables)
+2. **N por [[Medicina Bucal I/Etimiologias/Adenopatías\|Adenopatías]] metastasicas**
+- No → (no hay [[Medicina Bucal I/Etimiologias/Adenopatías\|Adenopatías]] palpables)
 - N1 → < 3cm ipsolateral
 - N2a → 1 ganglio 3-6 cm ipsolateral
 - N2b → Numerosos ganglio 3-6 cm ipsolaterales
