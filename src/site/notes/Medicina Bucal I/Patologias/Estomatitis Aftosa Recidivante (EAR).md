@@ -35,7 +35,7 @@
 2. Enfermedad celiaca o enteropatia por intolerancia al gluten
 3. Enfermedad de Crohn y colitis ulcerosa
 4. Neutropenia ciclica
-5. Sindrome de fiebre periodica, aftosis, faringits y [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]]
+5. Sindrome de fiebre periodica, aftosis, faringits y [[Medicina Bucal I/Etimiologias/Adenopatías\|Adenopatías]]
 6. [[Medicina Bucal I/Patologias/VIH\|VIH]]
 7. Sindrome de Reiter
 8. Sindrome de Magic
@@ -68,7 +68,7 @@
 80% de los casos.
 Localizadas en **mucosa de revistimiento**. Rara en mucosa queratinizada !
 
-<u>Descripcion : </u>Ulcera redondeada u ovalada, tamano menos de 1cm, bordes eritematosos, poca profundidad, suelo limpio, color blanco por la necrosis, no [[Medicina Bucal I/Patologias/Adenopatías\|adenopatías]], sin reaccion sistématica.
+<u>Descripcion : </u>Ulcera redondeada u ovalada, tamano menos de 1cm, bordes eritematosos, poca profundidad, suelo limpio, color blanco por la necrosis, no [[Medicina Bucal I/Etimiologias/Adenopatías\|adenopatías]], sin reaccion sistématica.
 
 Evoluciona sin secuelas en 10-14 dias
 
@@ -87,7 +87,7 @@ Evoluciona sin secuelas en 10-14 dias
 10-15% de los casos
 Localizadas en mucosa de revestimiento pero puede afectar tambien paladar blando y faringe
 
-<u>Descripcion</u> : Úlceras > 1 cm, ovaladas, formas más irregulares. Más profundas, con bordes eritematosos, no evertidos, ni infiltrados, fondo limpio, amarillento por el exudado fibrinoide, pueden presentar [[Medicina Bucal I/Patologias/Adenopatías\|adenopatias]]. Son muy dolorosas.
+<u>Descripcion</u> : Úlceras > 1 cm, ovaladas, formas más irregulares. Más profundas, con bordes eritematosos, no evertidos, ni infiltrados, fondo limpio, amarillento por el exudado fibrinoide, pueden presentar [[Medicina Bucal I/Etimiologias/Adenopatías\|adenopatias]]. Son muy dolorosas.
 
 DD con [[Medicina Bucal I/Patologias/Tumores malignos de la mucosa oral/Derivados del epitelio/Carcinoma oral de Células Escamosas (COCE)\|Carcinoma oral de Células Escamosas (COCE)]]
 
