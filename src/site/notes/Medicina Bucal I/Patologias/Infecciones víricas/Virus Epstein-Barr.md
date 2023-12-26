@@ -13,7 +13,7 @@
 ---
 
 → Contacto oral, gente joven
-→ Fiebre, malestar, [[Medicina Bucal I/Patologias/Adenopatías\|adenopatías]], dolor de garganta, linfocitosis
+→ Fiebre, malestar, [[Medicina Bucal I/Etimiologias/Adenopatías\|adenopatías]], dolor de garganta, linfocitosis
 → Hepato y esplenomegalia
 
 En oral : Petequias y hemorragias en paladar blando y faringe, amigdalas edematosas y cubierta por un exudado blanquecino.
