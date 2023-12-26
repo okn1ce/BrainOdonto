@@ -31,9 +31,13 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 
 # Bulle du contenu
 
-![Pasted image 20231128220220.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231128220220.png)
-*28/11/2023*
+![Pasted image 20231226223817.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231226223817.png)
+*26/12/2023*
 # Derniers ajouts : 
+
+## 26/12/2023
+- Ajout de [[PTD/Dental Trauma/Evolución y Prevención de las lesiones traumáticas\|Evolución y Prevención de las lesiones traumáticas]]
+- Ajout de [[Protesis I/Odontología total - Trauma oclusal\|Odontología total - Trauma oclusal]]
 ## 25/12/2023
 - Ajout de [[Protesis I/Esquemas oclusales\|Esquemas oclusales]]
 ## 23/12/2023
