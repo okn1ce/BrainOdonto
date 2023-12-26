@@ -24,14 +24,14 @@
 ## TBC Intraoral Primaria 
 - UIceras indoloras de morfologia irregular, consistencia blanda, poligonales y bordes dentados
 - Exudados amarillentos con abundante microbacterias
-- [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]] satélites con tendencia a abscesificarse y fistulizar
+- [[Medicina Bucal I/Etimiologias/Adenopatías\|Adenopatías]] satélites con tendencia a abscesificarse y fistulizar
 - Fiebre, pérdida de peso, tos y cansancio
 - Ninos y adultos jovenes
 
 
 ## Linfadenitis Tuberculosa Cervical
 - Forma mas frecuente de TBC extrapulmonar
-- [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]] satélites, móviles y fluctuantes con calcificaciones en el interior y tendencia a abscesificarse y fistulizar
+- [[Medicina Bucal I/Etimiologias/Adenopatías\|Adenopatías]] satélites, móviles y fluctuantes con calcificaciones en el interior y tendencia a abscesificarse y fistulizar
 - Fiebre, pérdida de peso, tos y fatiga
 
 ![Pasted image 20231028150012.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231028150012.png)
