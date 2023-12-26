@@ -34,10 +34,22 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 ![Pasted image 20231128220220.png](/img/user/Cirugia%20Bucal%20I/Medias/Pasted%20image%2020231128220220.png)
 *28/11/2023*
 # Derniers ajouts : 
+## 25/12/2023
+- Ajout de [[Protesis I/Esquemas oclusales\|Esquemas oclusales]]
+## 23/12/2023
+- Ajout de [[Protesis I/Guia anterior\|Guia anterior]]
+
+## 22/12/2023
+- Ajout de [[Medicina Bucal I/Patologias/Patogia propia de la lengua y labios/Patologia de la lengua\|Patologia de la lengua]]
+- Ajout de [[Medicina Bucal I/Patologias/Patogia propia de la lengua y labios/Patologia de los labios\|Patologia de los labios]]
+- Ajout de [[Medicina Bucal I/Patologias/Tumoraciones cervicales\|Tumoraciones cervicales]]
+- → Catégorie Medicina bucal terminée 
+- → Catégorie PTD terminée
 
 ## 16/12/2023
 - Ajout de [[Cirugia Bucal I/Exodoncia/Complicaciones postoperatorias\|Complicaciones postoperatorias]]
 - Ajout de [[Protesis I/Determinantes de la morfologia oclusal\|Determinantes de la morfologia oclusal]]
+- → Catégorie Cirugia Bucal terminée 
 ## 12/12/2023
 - Ajout de [[PTD/Dental Trauma/Lesiones dentarias con luxación\|Lesiones dentarias con luxación]]
 - Ajout de [[Cirugia Bucal I/Exodoncia/Complicaciones intraoperatorias\|Complicaciones intraoperatorias]]
@@ -72,7 +84,7 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 - Ajout de [[PTD/Patologias/Otras/Desgaste Dental\|Desgaste Dental]]
 ## 28/11/2023
 - Ajout de [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores Benignos\|Tumores Benignos]]
-	- → [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epitaliales/Nevus\|Nevus]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epitaliales/Papiloma\|Papiloma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epitaliales/Queratoacantoma\|Queratoacantoma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Fibroma\|Fibroma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/GPCG\|GPCG]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Granuloma piógeno\|Granuloma piógeno]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Hemangioma\|Hemangioma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Linfangioma\|Linfangioma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Lipoma\|Lipoma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Neurofibroma\|Neurofibroma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Schwannoma\|Schwannoma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Tumor de células granulares\|Tumor de células granulares]]
+	- → [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epiteliales/Nevus\|Nevus]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epiteliales/Papiloma\|Papiloma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epiteliales/Queratoacantoma\|Queratoacantoma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Fibroma\|Fibroma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/GPCG\|GPCG]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Granuloma piógeno\|Granuloma piógeno]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Hemangioma\|Hemangioma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Linfangioma\|Linfangioma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Lipoma\|Lipoma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Neurofibroma\|Neurofibroma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Schwannoma\|Schwannoma]], [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores mesenquimatosos/Tumor de células granulares\|Tumor de células granulares]]
 ## 26/11/2023
 - Ajout de [[PTD/Radio/INTERPRETACION RADIOLOGÍA\|INTERPRETACION RADIOLOGÍA]]
 ## 25/11/2023
@@ -89,7 +101,7 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 
 ## 20/11/2023
 - Correction de fautes d'orthographe.
-- Ajout de [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]]
+- Ajout de [[Medicina Bucal I/Etimiologias/Adenopatías\|Adenopatías]]
 	- → Ajout de liens vers cette définition.
 - Ajout de contenu sur [[Medicina Bucal I/Patologias/Lesiones Potencialmente Malignas de la Mucosa Oral (precancerosas)/Leucoplasias Verrugosa Proliferativa\|Leucoplasias Verrugosa Proliferativa]]
 
