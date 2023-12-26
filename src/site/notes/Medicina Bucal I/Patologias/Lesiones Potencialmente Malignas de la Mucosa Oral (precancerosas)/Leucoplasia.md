@@ -95,7 +95,7 @@ Dos posibilidades :
 1. [[Medicina Bucal I/Patologias/Infeccion por Candida/Candidiasis\|Candidiasis]]
 2. [[Medicina Bucal I/Patologias/Autoinmunes/Lupus eritematoso\|Lupus eritematoso]]
 3. Lesiones traumaticas ([[Medicina Bucal I/Patologias/Lesiones/Lesiones traumaticas/Mucosa mordisqueada\|Mucosa mordisqueada]] por ej.)
-4. Lesiones blancas hereditarias ([[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epitaliales/Nevus\|Nevus]] blanco esponjoso)
+4. Lesiones blancas hereditarias ([[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epiteliales/Nevus\|Nevus]] blanco esponjoso)
 5. Otras (Leucoplasia vellosa, quemaduras quimicas, lesiones papilomatosas)
 
 ##### Evolución
