@@ -7,9 +7,9 @@
 
 # Tumores epitaliales 
 ---
-1. [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epitaliales/Papiloma\|Papiloma]]
-2. [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epitaliales/Queratoacantoma\|Queratoacantoma]]
-3. [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epitaliales/Nevus\|Nevus]]
+1. [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epiteliales/Papiloma\|Papiloma]]
+2. [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epiteliales/Queratoacantoma\|Queratoacantoma]]
+3. [[Medicina Bucal I/Patologias/Tumores benignos de la mucosa oral/Tumores epiteliales/Nevus\|Nevus]]
 
 # Tumores mesenquimatosos (tej. conectivo)
 ---
