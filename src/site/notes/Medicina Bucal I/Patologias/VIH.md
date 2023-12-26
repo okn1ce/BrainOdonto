@@ -55,7 +55,7 @@ El diagnostico de las manifestaciones orales de la enfermedad en los primeros es
 	2. Escasa o nula sintomatologia
 2. **Fase sintomatica**
 	1. Aperece en relacíon con la disminución del recuente de los linfocitos T-CD4
-	2. Malestar, fiebre, sudores nocturnos, pérdida de peso, [[Medicina Bucal I/Patologias/Adenopatías\|linfadenopatias]], alteraciones neurologicas y infecc. Crónicas
+	2. Malestar, fiebre, sudores nocturnos, pérdida de peso, [[Medicina Bucal I/Etimiologias/Adenopatías\|linfadenopatias]], alteraciones neurologicas y infecc. Crónicas
 	3. Lesiones orales
 
 ![Pasted image 20231212113448.png](/img/user/Medicina%20Bucal%20I/Medias/Pasted%20image%2020231212113448.png)
