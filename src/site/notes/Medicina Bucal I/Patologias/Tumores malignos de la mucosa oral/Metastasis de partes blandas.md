@@ -9,7 +9,7 @@ Es un tumoración en e**l territorio oral** como consecuencia de un tumor malign
 
 Mas **frecuente** en hombres de 50-70 anos
 **Localización** : Mas frecuente en encia, lengua y labios
-→ [[Medicina Bucal I/Patologias/Adenopatías\|Adenopatías]] cervicales metastasicas
+→ [[Medicina Bucal I/Etimiologias/Adenopatías\|Adenopatías]] cervicales metastasicas
 
 # Clinica
 ---
