@@ -74,7 +74,7 @@
 - [[Protesis I/Biomecánica de la ATM y posiciones básicas de la mandibula#Posición basicas de la mandibula\|Relación centrica]]
 	- Grandes abrasiones por bruxismo
 	- Enfermedad periodontal con componente oclusal
-	- Sdr. disfunción craneo mandibular
+	- [[Protesis I/Introducción al Síndrome de Disfunción Cráneomandibular.\|Síndrome de Disfunción Cráneomandibular]]
 	- Pérdidas dentarias extensas y pérdida de dimensión vertical
 - [[Protesis I/Biomecánica de la ATM y posiciones básicas de la mandibula#Maxima intercuspidación & relaciones\|Maxima intercuspidación]] 
 	- Todos los demas casos que no tengan patologia
