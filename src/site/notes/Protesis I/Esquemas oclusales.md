@@ -3,8 +3,6 @@
 ---
 
 
-```table-of-contents
-```
 # Concepto : Oclusión
 ---
 
