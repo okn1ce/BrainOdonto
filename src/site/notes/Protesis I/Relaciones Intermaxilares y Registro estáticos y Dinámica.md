@@ -6,7 +6,7 @@
 ---
 
 - Relacionan los modelos de la arcada superior e inferior en una determinada posición
-- Sirve para el montaje inferior del [[Protesis I/Arcos faciales y articuladores#Articuladores\|articulador]]
+- Sirve para el montaje inferior del [[Arcos faciales y articuladores#Articuladores\|articulador]]
 - Solo con las relaciones excentricas → programación del articulador
 - **El registro mas antiguo de [[Protesis I/Biomecánica de la ATM y posiciones básicas de la mandibula#^4b2418\|relación centrica]] es el intraoral directo**
 
