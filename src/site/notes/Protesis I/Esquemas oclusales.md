@@ -76,7 +76,7 @@ Contactos anomalos en el esquema oclusal que ofrecemos al paciente.
 - Inestable : Auscencias, migraciones
 - Movimiento dental
 - Afectacion dental : Parafunciones, desgastes, fisuras, alteraciones de tipo pulpar o radicular
-- Sintomas o signos de disfunción craneomandibular 
+- Sintomas o signos de [[Protesis I/Introducción al Síndrome de Disfunción Cráneomandibular.\|Síndrome de Disfunción Cráneomandibular]]
 - Relaciones intermaxilares que provocan disfunción en la fonética, deglución, masticación y estética
 
 ### Adaptativa
