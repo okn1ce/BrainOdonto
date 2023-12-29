@@ -35,6 +35,11 @@ Chaque cours est divisé en plusieurs petits morceaux. Chaque définition possè
 *26/12/2023*
 # Derniers ajouts : 
 
+## 28/12/2023
+- Correction de fautes d'orthographe
+## 27/12/2023
+- Ajout de [[Protesis I/Articulador & Arco facial\|Articulador & Arco facial]]
+- Ajout de [[Protesis I/Introducción al Síndrome de Disfunción Cráneomandibular.\|Introducción al Síndrome de Disfunción Cráneomandibular.]]
 ## 26/12/2023
 - Ajout de [[PTD/Dental Trauma/Evolución y Prevención de las lesiones traumáticas\|Evolución y Prevención de las lesiones traumáticas]]
 - Ajout de [[Protesis I/Odontología total - Trauma oclusal\|Odontología total - Trauma oclusal]]
